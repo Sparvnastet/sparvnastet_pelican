@@ -1,0 +1,19 @@
+:title: > make-all
+:date: 2012-07-26 00:00
+:modified: 2012-07-26 00:00
+:category: Blog
+:tags: make-all
+:slug: make-all
+:authors: Sparven
+:summary: make-all
+
+Sparvnästet - join us!
+######################
+<{filename}/images/make-all.jpg>
+
+Den 17-19 augusti på Tekniska Museet i Stockholm kommer vi arrangera 
+ett dygnet-runt event från fredag till söndag med workshops och föreläsningar. 
+
+Vi är nu fullt uppe i att planera, men vi jobbar på att ha föreläsningar som utmynnar i workshops, mycket dissekerande och undersökande. Det kommer finnas lödstationer och roligt skrot att bygga med. RFID, låsdyrkning, grafikkodande, internetdemokrati och mycket mer tänkte vi hinna med under helgen.
+
+Läs mer på [http://make-all.se](make-all.se)

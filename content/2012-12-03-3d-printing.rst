@@ -1,0 +1,59 @@
+:title: 3d Printing
+:date: 2012-12-03 00:00
+:category: Blog
+:tags: sparvnastet 3dprinting
+:slug: 3d-printing
+:authors: Sparven
+:summary: 3d Printing
+
+We are planning to dedicate the coming months to 3d-printing.&nbsp;
+
+Imagine a world were we can print anything. Still in early development
+    the&nbsp; possibilities of 3d-printing are opening up new imaginations, lowering&nbsp; production and prototyping costs. Like the printing press revolutionized&nbsp; literacy and made way for a new world, this 3rd Industrial Revolution&nbsp; will profoundly change the way we function socially, economically, and&nbsp;&nbsp; democratically by opening up for a new kind of small scale distributed&nbsp; production. Laws on patents and intellectual property, piracy, and trade&nbsp; becomes more and more ambiguous and outdated.&nbsp;
+
+
+We will use 3d-printers like RepRap and a Makerbot to explore 3d-printing, we will use Blender and Mudbox or similar programs to make 3d-models. Can we make mashups and hybrids and generatively&nbsp; create objects? What kind of awsome projects will happen?&nbsp; We will&nbsp; discuss these issues in a text seminar. We will look att 3d-scanning&nbsp; techniques like using Kinect for 3d-scanning and much more?
+
+
+The dates and Locations are as follows:
+
+11 December from 6 PM
+---------------------
+
+
+Location: Drottninggatan 112A, Dans and 23c office near Tegnérgatan. [http://goo.gl/3ucpQ](http://goo.gl/3ucpQ)
+Subway station: Rådmansgatan
+
+- Maker bot and Kinect-based 3D-scanning.
+
+
+18 December from 6 PM
+---------------------
+
+Location: Drottninggatan 112A, Dans and 23c office near Tegnérgatan. [http://goo.gl/3ucpQ](http://goo.gl/3ucpQ) 
+Subway station: Rådmansgatan 
+- More Self-replicating machines and What would be a good stack of software to use?&nbsp; 
+ 
+January 8 from 6 PM
+-------------------
+
+Location: Konsthögskolan hus 28 
+- Reading seminare, open workshop and labs
+
+January 15 from 6 PM
+--------------------
+
+Location: Konsthögskolan hus 28
+- Open workshop and labs, continuation on projects.
+
+January 22 from 6 PM
+--------------------
+
+Location: Konsthögskolan hus 28
+- Open workshop and labs, continuation on projects.
+
+January 29 from 6 PM
+--------------------
+
+Location: Konsthögskolan hus 28
+- Open workshop and labs, continuation on projects.
