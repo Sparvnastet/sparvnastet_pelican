@@ -82,11 +82,13 @@ Structure of the theme directory
 
     themes/
         sparrowtheme/
-            css/
+            static/
+                css/
             foundation/
                 [foundation specific stuff]
                 css/
                 scss/
             templates/
 
-The ``css``
+The ``sparrowtheme/static/css`` directory contains the output from ``sparrowtheme/foundation/scss/`` after grunt (or any other)
+build process has compiled the ``*.scss`` files into ``css``.
