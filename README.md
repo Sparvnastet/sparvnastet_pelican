@@ -27,10 +27,14 @@ Activate your virtualenvironment and start the development server
 ### Installing Foundation
 We use [foundation.zurb.com](foundation.zurb.com) as framework for the CSS stuff.
 
+    npm install -g bower grunt-cli
+
     gem install foundation
 
 You need Ruby installed for this since Foundation uses SASS which is built with Ruby.
 
+More information on foundation and the installation process here
+[http://foundation.zurb.com/docs/sass.html](http://foundation.zurb.com/docs/sass.html)
 
 ### Adding content
 Pages to be published are saved in the ``content`` directory.
