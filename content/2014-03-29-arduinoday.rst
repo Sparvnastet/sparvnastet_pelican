@@ -18,10 +18,9 @@ gärna ta med den.
 
 Arduino är ett mikrokontrollerkort och en uppsättning
 programmeringsverktyg som gör det enkelt att börja experimentera med
-elektronik och programmering. Läs mer om Arduino här:
-[www.arduino.cc](http://www.arduino.cc/) och inspireras av [några
-roliga
-arduinoprojekt](http://www.instructables.com/id/Arduino-Projects).
+elektronik och programmering. Läs mer om Arduino här: `www.arduino.cc
+<http://www.arduino.cc/>`_ och inspireras av: `några roliga
+arduinoprojekt <http://www.instructables.com/id/Arduino-Projects>`_.
 
 Utöver workshopen kommer vi hålla öppet från kl 12:00 till sent för
 alla som vill komma och prata Arduino, hacka på egna projekt eller
