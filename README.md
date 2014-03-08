@@ -11,10 +11,16 @@ If you haven't already, install [virtualenvwrapper](http://virtualenvwrapper.rea
     pip install Markdown
     pip install pelican-vimeo
     pip install pelican-youtube
+    pip install fabric
 
     git clone git@github.com:Sparvnastet/sparvnastet_pelican.git
 
 
+### Development server
+Activate your virtualenvironment and start the development server
+
+    workon sparv_pelican
+    ./develop_server.sh start
 
 
 
