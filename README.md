@@ -9,6 +9,7 @@ If you haven't already, install [virtualenvwrapper](http://virtualenvwrapper.rea
     mkvirtualenv sparv_pelican
 
     pip install Markdown
+    pip install pelican
     pip install pelican-vimeo
     pip install pelican-youtube
     pip install fabric
