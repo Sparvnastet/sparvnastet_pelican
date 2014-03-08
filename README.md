@@ -24,6 +24,13 @@ Activate your virtualenvironment and start the development server
     ./develop_server.sh start
 
 
+### Installing Foundation
+We use [foundation.zurb.com](foundation.zurb.com) as framework for the CSS stuff.
+
+    gem install foundation
+
+You need Ruby installed for this since Foundation uses SASS which is built with Ruby.
+
 
 ### Adding content
 Pages to be published are saved in the ``content`` directory.
@@ -49,3 +56,33 @@ Prepend every page with the current date like
 processed and placed in the ``output`` directory. A file with ``:slug:
 sparvnastet`` will end up as ``output/sparvnastet.html``
 
+
+### Changing the layout
+
+``Foundation`` is used for the presentation. Theme used is``themes/sparrowtheme``.
+The current theme is defined in ``pelicanconf.py`` as::
+
+    THEME = 'themes/sparrowtheme'
+
+
+#### Compile CSS
+Use Grunt to compile the SCSS into CSS
+
+    cd themes/sparrowtheme/foundation/
+    grunt
+
+This will output the SCSS into the directory specified in ``themes/sparrowtheme/foundation/Gruntfile.js``
+
+
+Structure of the theme directory
+
+    themes/
+        sparrowtheme/
+            css/
+            foundation/
+                [foundation specific stuff]
+                css/
+                scss/
+            templates/
+
+The ``css``

@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block content %}
+<section id="content">
+
+    {% block content_title %}
+    {% endblock %}
+
+
+    {% for article in articles_page.object_list %}
+    <article>
+
+        <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{ article.title|striptags }}">{{ article.title}}</a></h2>
+        <h6><a href="#">{{ article.author }}</a> {{ article.date.isoformat() }}</h6>
+
+        <div class="row">
+          <div class="large-12 columns">
+            {{ article.content }}
+          </div>
+          {#
+          <div class="large-6 columns">
+            <img src="http://placehold.it/400x240&text=[img]" />
+          </div>
+          #}
+        </div>
+
+    </article>
+    {% endfor %}
+
+    {#
+    <ol id="post-list">
+    {% for article in articles_page.object_list %}
+        <li>
+            <article class="hentry">
+            <header> <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
+            <footer class="post-info">
+                <abbr class="published" title="{{ article.date.isoformat() }}"> {{ article.locale_date }} </abbr>
+                {% if article.author %}<address class="vcard author">By <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a></address>{% endif %}
+            </footer><!-- /.post-info -->
+            <div class="entry-content"> {{ article.summary }} </div><!-- /.entry-content -->
+            </article>
+        </li>
+    {% endfor %}
+    </ol><!-- /#posts-list -->
+    #}
+    {% include 'pagination.html' %}
+    </section><!-- /#content -->
+{% endblock content %}
