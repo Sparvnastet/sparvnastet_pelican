@@ -18,7 +18,7 @@ If you haven't already, install [virtualenvwrapper](http://virtualenvwrapper.rea
 
 
 ### Development server
-Activate your virtualenvironment and start the development server
+Activate your virtualenvironment and start the development server on localhost:8000
 
     workon sparv_pelican
     ./develop_server.sh start
@@ -27,7 +27,7 @@ Activate your virtualenvironment and start the development server
 ### Installing Foundation
 We use [foundation.zurb.com](foundation.zurb.com) as framework for the CSS stuff.
 
-    npm install -g bower grunt-cli
+    sudo npm install -g bower grunt-cli
 
     gem install foundation
 
