@@ -25,7 +25,7 @@
   </header>
   <footer class="post-info">
     <abbr class="published" title="{{ article.date.isoformat() }}">
-      {{ article.locale_date }}
+      {{ article.locale_date|format }}
     </abbr>
     {% if article.author %}
     <address class="vcard author">
