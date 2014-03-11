@@ -7,8 +7,7 @@
 :summary: Autumn Schedule
 
 
-Check out the awesome [http://sparvnastet.org/autumn-schedule/](schedule) for
- the autumn at Sparvnästet!
+Check out the awesome schedule_ for the autumn at Sparvnästet!
 
 
 There will be two epic workshop series running the next couple of weeks. One on offensive computer security and one on Arduino hacking.
@@ -19,3 +18,4 @@ In the computer security workshop series, we will look in to topics such as netw
 
 In the Arduino workshops, you get a chance to play with this fantastic micro controller platform amongst fellow hardware hackers.
 
+.. _schedule : http://sparvnastet.org/autumn-schedule/

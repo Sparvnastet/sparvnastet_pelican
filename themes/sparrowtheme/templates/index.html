@@ -10,10 +10,10 @@
     <article>
 
         <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{ article.title|striptags }}">{{ article.title}}</a></h2>
-        <h6><a href="#">{{ article.author }}</a> {{ article.date.isoformat() }}</h6>
+        <h6><b>Publicerad: {{ article.date.strftime('%Y-%m-%d') }}</b></h6>
 
         <div class="row">
-          <div class="large-12 columns">
+          <div class="large-12 columns content">
             {{ article.content }}
           </div>
           {#
@@ -24,6 +24,7 @@
         </div>
 
     </article>
+    <hr>
     {% endfor %}
 
     {#

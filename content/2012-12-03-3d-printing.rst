@@ -6,13 +6,12 @@
 :authors: Sparven
 :summary: 3d Printing
 
-We are planning to dedicate the coming months to 3d-printing.&nbsp;
+We are planning to dedicate the coming months to 3d-printing.
 
-Imagine a world were we can print anything. Still in early development
-    the&nbsp; possibilities of 3d-printing are opening up new imaginations, lowering&nbsp; production and prototyping costs. Like the printing press revolutionized&nbsp; literacy and made way for a new world, this 3rd Industrial Revolution&nbsp; will profoundly change the way we function socially, economically, and&nbsp;&nbsp; democratically by opening up for a new kind of small scale distributed&nbsp; production. Laws on patents and intellectual property, piracy, and trade&nbsp; becomes more and more ambiguous and outdated.&nbsp;
+Imagine a world were we can print anything. Still in early development the possibilities of 3d-printing are opening up new imaginations, lowering production and prototyping costs. Like the printing press revolutionized literacy and made way for a new world, this 3rd Industrial Revolution will profoundly change the way we function socially, economically, and democratically by opening up for a new kind of small scale distributed production. Laws on patents and intellectual property, piracy, and trade becomes more and more ambiguous and outdated.
 
 
-We will use 3d-printers like RepRap and a Makerbot to explore 3d-printing, we will use Blender and Mudbox or similar programs to make 3d-models. Can we make mashups and hybrids and generatively&nbsp; create objects? What kind of awsome projects will happen?&nbsp; We will&nbsp; discuss these issues in a text seminar. We will look att 3d-scanning&nbsp; techniques like using Kinect for 3d-scanning and much more?
+We will use 3d-printers like RepRap and a Makerbot to explore 3d-printing, we will use Blender and Mudbox or similar programs to make 3d-models. Can we make mashups and hybrids and generatively create objects? What kind of awsome projects will happen?; We will discuss these issues in a text seminar. We will look att 3d-scanning techniques like using Kinect for 3d-scanning and much more?
 
 
 The dates and Locations are as follows:
@@ -21,7 +20,7 @@ The dates and Locations are as follows:
 ---------------------
 
 
-Location: Drottninggatan 112A, Dans and 23c office near Tegnérgatan. [http://goo.gl/3ucpQ](http://goo.gl/3ucpQ)
+Location: Drottninggatan 112A, Dans and 23c office_ near Tegnérgatan.
 Subway station: Rådmansgatan
 
 - Maker bot and Kinect-based 3D-scanning.
@@ -30,14 +29,14 @@ Subway station: Rådmansgatan
 18 December from 6 PM
 ---------------------
 
-Location: Drottninggatan 112A, Dans and 23c office near Tegnérgatan. [http://goo.gl/3ucpQ](http://goo.gl/3ucpQ) 
-Subway station: Rådmansgatan 
-- More Self-replicating machines and What would be a good stack of software to use?&nbsp; 
- 
+Location: Drottninggatan 112A, Dans and 23c office_ near Tegnérgatan.
+Subway station: Rådmansgatan
+- More Self-replicating machines and What would be a good stack of software to use?
+
 January 8 from 6 PM
 -------------------
 
-Location: Konsthögskolan hus 28 
+Location: Konsthögskolan hus 28
 - Reading seminare, open workshop and labs
 
 January 15 from 6 PM
@@ -57,3 +56,5 @@ January 29 from 6 PM
 
 Location: Konsthögskolan hus 28
 - Open workshop and labs, continuation on projects.
+
+.. _office : http://goo.gl/3ucpQ

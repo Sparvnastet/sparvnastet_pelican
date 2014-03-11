@@ -7,7 +7,7 @@
 :summary: Meant to be p2p
 
 
-During this winter we meet at Royal Institute of Art to continue our endeavors and would be very happy if you joined us.  This is the first part of a long series of workshops that we will run. We meet in "hus 28", near the water, behind the main building. Can not find the way? call 0760440023. 
+During this winter we meet at Royal Institute of Art to continue our endeavors and would be very happy if you joined us.  This is the first part of a long series of workshops that we will run. We meet in "hus 28", near the water, behind the main building. Can not find the way? call 0760440023.
 
 Meant to be p2p - 6 November - 27 November
 ------------------------------------------
@@ -16,22 +16,24 @@ Internet is a distributed network but our behaviors are ruled and monitored by c
 6 November
 -----------
 
-Reading  TheTelekommunisten Manifesto::
-	
-	....encouraging hackers and artists to embrace the revolutionary potential of the internet for a truly free society, The Telekommunist Manifesto is a political-conceptual call to arms in the fight against capitalism.</li>
+Reading the Telekommunis Manifesto:
 
-The text is here: [http://telekommunisten.net/the-telekommunist-manifesto/](http://telekommunisten.net/the-telekommunist-manifesto/)        
+	....encouraging hackers and artists to embrace the revolutionary potential of the internet for a truly free society, The Telekommunist Manifesto is a political-conceptual call to arms in the fight against capitalism.
+
+The text is here_.
 
 - Facilitator: Bibi
 
 13 November
 -----------
 
-- Introduction to Distributed hash table http://en.wikipedia.org/wiki/Distributed_hash_table
-- More reference soon..
+- Introduction to Distributed hash tables.
 - Facilitator: Adis
 
 20 November and 27 November
 ---------------------------
 
-- We will continue to work with  our project Dandelion [https://github.com/4ZM/Dandelion-Message-Service](https://github.com/4ZM/Dandelion-Message-Service) and also find out if we can develop a new project around Distributed hash tables.
+- We will continue to work with  our project Dandelion_ and also find out if we can develop a new project around Distributed hash tables.
+
+.. _here : http://telekommunisten.net/the-telekommunist-manifesto/
+.. _Dandelion : https://github.com/4ZM/Dandelion-Message-Service
