@@ -24,7 +24,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-
+settings/local.py
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
