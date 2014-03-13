@@ -16,9 +16,11 @@ Tisdag 18:00 den 11 Sep kör vi del 1 av exploitation workshopen.
 Tisdag 18:00 den 18 Sep kör vi del 2 av exploitation workshopen.
     Då skriver vi egna exploits.
 
-Om du vill delta i workshopen krävs en del förberedelser. Läs mer om det på vår
-[https://lists.riseup.net/www/arc/sparvnastet/2012-09/msg00000.html](mailing
-lista)
+Om du vill delta i workshopen krävs en del förberedelser. Läs mer om det på vår mailinglista_
 
-Det finns även mer information [http://sparvnastet
-.org/autumn-schedule/exploitation-ii-writing-exploits](här)
+Det finns även mer information här_.
+
+
+.. _här: http://sparvnastet.org/autumn-schedule/exploitation-ii-writing-exploits
+
+ .. _mailinglista: https://lists.riseup.net/www/arc/sparvnastet/2012-09/msg00000.html
