@@ -92,3 +92,18 @@ Structure of the theme directory
 
 The ``sparrowtheme/static/css`` directory contains the output from ``sparrowtheme/foundation/scss/`` after grunt (or any other)
 build process has compiled the ``*.scss`` files into ``css``.
+
+
+### Passphrase for public key
+
+If you encounter the following and haven't set fabric to use SSH Agent Forwarding:
+
+    fab publish
+
+    ssh.sparvnastet.org
+    [vojd@ssh.sparvnastet.org] Executing task 'publish'
+    [vojd@ssh.sparvnastet.org] run: echo "running remotely"
+    [vojd@ssh.sparvnastet.org] Passphrase for private key:
+
+Then just type anything and hit enter. Then Fabric will continue to ask you for the ssh password.
+You can read more about this issue at the bottom of this page [http://fabric.readthedocs.org/en/1.3.4/faq.html](http://fabric.readthedocs.org/en/1.3.4/faq.html)
