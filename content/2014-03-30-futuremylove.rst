@@ -1,5 +1,5 @@
 :title: Future My Love
-:date: 2014-03-30 15:00
+:date: 2014-03-15 15:00
 :category: Blog
 :tags: sparvnastet filmvisning
 :slug: futuremylove
@@ -33,4 +33,4 @@ Alla är välkomna, evenemanget är gratis och ingen föranmälan behövs.
 Sparvnästets nya lokal ligger på Hangövägen 18 i Värtahamnen. Närmaste
 tunnelbana är Gärdet.
 
-          
+
