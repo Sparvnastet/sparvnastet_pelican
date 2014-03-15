@@ -7,5 +7,5 @@
 :authors: Sparven
 :summary: Sparvnästet är ett hackspace i Stockholm
 
-Sparvnästet är ett hackspace i Stockholm. Vi träffas varje tisdag från 18:00 just nu på Konst högskolan för att data/diskutera/leka/bygga.
+Sparvnästet är ett hackspace i Stockholm. Vi träffas varje tisdag från klockan 18:00 i vår lokal på Hangövägen 18 i Värtahamnen (tunnelbana Gärdet).
 Ta med din dator, ditt projekt eller din robot och kom förbi och hälsa på!

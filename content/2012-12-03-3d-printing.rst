@@ -16,43 +16,35 @@ We will use 3d-printers like RepRap and a Makerbot to explore 3d-printing, we wi
 
 The dates and Locations are as follows:
 
-11 December from 6 PM
----------------------
-
+**11 December from 6 PM**
 
 Location: Drottninggatan 112A, Dans and 23c office_ near Tegnérgatan.
 Subway station: Rådmansgatan
 
 - Maker bot and Kinect-based 3D-scanning.
 
-
-18 December from 6 PM
----------------------
+**18 December from 6 PM**
 
 Location: Drottninggatan 112A, Dans and 23c office_ near Tegnérgatan.
 Subway station: Rådmansgatan
 - More Self-replicating machines and What would be a good stack of software to use?
 
-January 8 from 6 PM
--------------------
+**January 8 from 6 PM**
 
 Location: Konsthögskolan hus 28
 - Reading seminare, open workshop and labs
 
-January 15 from 6 PM
---------------------
+**January 15 from 6 PM**
 
 Location: Konsthögskolan hus 28
 - Open workshop and labs, continuation on projects.
 
-January 22 from 6 PM
---------------------
+**January 22 from 6 PM**
 
 Location: Konsthögskolan hus 28
 - Open workshop and labs, continuation on projects.
 
-January 29 from 6 PM
---------------------
+**January 29 from 6 PM**
 
 Location: Konsthögskolan hus 28
 - Open workshop and labs, continuation on projects.

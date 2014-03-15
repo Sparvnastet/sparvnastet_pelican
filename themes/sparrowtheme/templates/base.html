@@ -30,6 +30,9 @@
     {% endif %}
 
     <link rel="stylesheet" href="{{SITEURL}}/theme/css/app.css" />
+
+    {% block extrahead %}
+    {% endblock extrahead %}
     {% endblock head %}
 </head>
 
@@ -41,9 +44,9 @@
     <div class="large-12 columns">
       <div class="nav-bar right">
        <ul class="button-group">
-         <li><a href="#" class="button">Bli medlem!</a></li>
-         <li><a href="#" class="button">Hitta hit</a></li>
-         <li><a href="#" class="button">Om oss</a></li>
+         <li><a href="medlem.html" class="button">Bli medlem!</a></li>
+         <li><a href="hitta.html" class="button">Hitta hit</a></li>
+         <li><a href="sparvnastet.html" class="button">Om oss</a></li>
         </ul>
       </div>
       <hr />
@@ -110,7 +113,7 @@
       <hr />
       <div class="row">
         <div class="large-6 columns">
-          <p>© Copyright no one at all. Go to town.</p>
+          <p>© Copyright no one at all.</p>
         </div>
       </div>
     </div>
