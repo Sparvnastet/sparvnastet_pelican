@@ -37,6 +37,7 @@ def build():
     # Copy calendar
     calendar_source = os.path.join(CALENDAR_INPUT_DIR, 'calendar.json')
     calendar_target = os.path.join(CALENDAR_OUTPUT_DIR, 'calendar.json')
+    local('echo copying %s to %s ' % (calendar_source, calendar_target))
     shutil.copyfile(calendar_source, calendar_target)
 
 
@@ -71,6 +72,8 @@ def publish():
     with cd("{sparv_deploypath}".format(**env)):
         run(". ../env/bin/activate")
         run("git pull origin master -v")
+        run("make html")
+        run("make publish")
 
 
 
