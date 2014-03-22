@@ -107,3 +107,10 @@ If you encounter the following and haven't set fabric to use SSH Agent Forwardin
 
 Then just type anything and hit enter. Then Fabric will continue to ask you for the ssh password.
 You can read more about this issue at the bottom of this page [http://fabric.readthedocs.org/en/1.3.4/faq.html](http://fabric.readthedocs.org/en/1.3.4/faq.html)
+
+
+# Calendar
+
+## Adding events to the calendar
+The calendar resides in ``content/calendar/calendar.json``. To add an event simply add an object to the list in the JSON file.
+NOTE: The calendar widget doesn't sort the events by date at the moment. It simply picks the first object as the latest event.

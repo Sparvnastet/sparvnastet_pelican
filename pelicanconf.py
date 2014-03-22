@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = u'Sparvn\xe4stet'
 SITENAME = u'Sparvn\xe4stet'
@@ -17,15 +18,16 @@ TRANSLATION_FEED_ATOM = None
 
 THEME = 'themes/sparrowtheme'
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+    ('Forskningsavdelningen', 'http://forskningsavd.se/'),
+    ('Göteborgs Hackerspace', 'http://gbg.hackerspace.se/'),
+    ('Umeå Hackerspace', 'http://umeahackerspace.se/'),
+)
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/sparvnastet'),
-          ('github', 'https://github.com/sparvnastet'),
-)
+          ('github', 'https://github.com/sparvnastet'),)
+
 
 DEFAULT_PAGINATION = 10
 
