@@ -6,6 +6,9 @@
 :authors: Sparven
 :summary: Futuristiska drömmar om teknik och en värld utan arbete
 
+
+.. image:: images/futuremylove-thumb.png
+
 Söndag den 30 Mars visar Sparvnästet filmen «Future My Love». Det är
 en vacker drömsyn där regissören Maja Borg skissar upp konturerna av
 ett radikalt annorlunda sätt att organisera samhället. Den utopiska

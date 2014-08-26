@@ -80,6 +80,7 @@ li {
     min-height: 20px;
     padding: 8px;
 }
+
 .collapsed {
     visibility: hidden;
     opacity: 0;
@@ -87,22 +88,23 @@ li {
 }
 
 .calendar-item {
-    background: #7777E5;
-    border: 4px solid #7777E5;
-    color: #fff;
+    /*background: #7777E5;*/
+    border: 4px solid #6C5EB5;
+    /*color: #fff;*/
 }
 .event-date {
-    width: 24px;
-    height: 24px;
+    width: 100%;
     border: 1px solid #303030;
-    background: #181090;
+    background: #a3007a;
+    color: #fff;
     padding: 8px;
-    color: #7777E5;
+    /*background: #181090;*/
+    /*color: #7777E5;*/
     font-family: 'C64', cursive;
-    display: table-cell;
 }
 .event-title {
-    display: table-cell;
+    width: 100%;
     padding-left: 8px;
-    border-top: 4px solid #6F3D86;
+    /*font-family: 'C64', cursive;*/
+    display: table-row;
 }

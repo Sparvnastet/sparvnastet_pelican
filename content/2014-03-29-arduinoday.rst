@@ -1,10 +1,12 @@
 :title: Arduino Day 2014
-:date: 2014-03-29 14:00
+:date: 2014-03-13 14:00
 :category: Blog
 :tags: sparvnastet arduino workshop
 :slug: arduinoday-2014
 :authors: Sparven
 :summary: Fira arduinodagen med workshop hos Sparvnästet
+
+.. image:: images/arduinoday.png
 
 Fira arduinodagen med workshop hos Sparvnästet Lördagen den 29 Mars är
 internationella arduinodagen. Det tänker vi fira!
