@@ -68,9 +68,16 @@ NOTE that this will first delete everything in the ``/output`` directory.
 
 ### Publishing to sparvnastet.org
 
-The page is served on sparvnastet.github.io. To get new content served from there
-first you need to push the changes to the ``gh-pages`` branch.
+#### Important first step.
+The page is served on sparvnastet.github.io.
+Since the page is served as an organisation-page and not a project-page the master branch
+is the one that's getting served on pages.github.io
+Start with adding that other repository to your git config
 
+    git remote add githubpages git@github.com:Sparvnastet/sparvnastet.github.io.git
+
+
+Now you're all set.
 Run ``make github``. This will first run the ``publish`` command, then run the ``ghp-import`` script
 and add all changes to the ``gh-pages`` branch before pushing it to github.
 
@@ -115,3 +122,7 @@ The calendar resides in ``content/calendar/calendar.json``. To add an event simp
 NOTE: The calendar widget doesn't sort the events by date at the moment. It simply picks the first object as the latest event.
 
 
+
+#### FAQ
++ Makefile:107: *** missing separator.  Stop.
+- Ensure you're using real tabs and not spaces when editing the Makefile.
