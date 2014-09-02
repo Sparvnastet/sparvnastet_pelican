@@ -8,17 +8,14 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-CALENDAR_OUTPUT_DIR = $(OUTPUTDIR)
-CALENDAR_INPUT_DIR = $(INPUTDIR)/calendar
-
 FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=ssh.sparvnastet.org
+SSH_HOST=localhost
 SSH_PORT=22
-SSH_USER=sparvuser
-SSH_TARGET_DIR=/var/www/sites/sparvnastet_pelican
+SSH_USER=root
+SSH_TARGET_DIR=/var/www
 
 S3_BUCKET=my_s3_bucket
 
@@ -58,7 +55,6 @@ help:
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
@@ -86,7 +82,6 @@ stopserver:
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	cp $(CALENDAR_INPUT_DIR)/calendar.json $(CALENDAR_OUTPUT_DIR)
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
