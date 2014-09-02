@@ -1,0 +1,110 @@
+/**
+µCalendar
+foundation imitations
+
+colors:
+
+ 0 	       black	   0,0         (  0) 	   0,0         (  0) 	   0,0         (  0)
+ 1 	       white	 254,999999878 (255)	 254,999999878 (255)	 254,999999878 (255)
+ 2 	       red	 103,681836072 (104)	  55,445357742 ( 55)	  43,038096345 ( 43)
+ 3 	       cyan	 111,932673473 (112)	 163,520631667 (164)	 177,928819803 (178)
+ 4 	       purple 	 111,399725075 (111)	  60,720543693 ( 61)	 133,643433983 (134)
+ 5 	       green	  88,102223525 ( 88)	 140,581101312 (141)	  67,050415368 ( 67)
+ 6 	       blue	  52,769271594 ( 53)	  40,296416104 ( 40)	 121,446211753 (121)
+ 7 	       yellow	 183,892638117 (184)	 198,676829993 (199)	 110,585717385 (111)
+ 8 	       orange	 111,399725075 (111)	  79,245328562 ( 79)	  37,169652483 ( 37)
+ 9 	       brown	  66,932804788 ( 67)	  57,383702891 ( 57)	    0,0         (  0)
+ A 	 light red	 153,690586380 (154)	 102,553762644 (103)	  89,111118307 ( 89)
+ B 	  dark grey	  67,999561813 ( 68)	  67,999561813 ( 68)	  67,999561813 ( 68)
+ C 	       grey	 107,797780127 (108)	 107,797780127 (108)	 107,797780127 (108)
+ D 	 light green	 154,244479632 (154)	 209,771445903 (210)	 131,584994128 (132)
+ E 	 light blue	 107,797780127 (108)	  94,106015515 ( 94)	 180,927622164 (181)
+ F 	 light grey	 149,480882981 (149)	 149,480882981 (149)	 149,480882981 (149)
+
+
+000000
+FFFFFF
+68372B
+70A4B2
+6F3D86
+588D43
+352879
+B8C76F
+6F4F25
+433900
+9A6759
+444444
+6C6C6C
+9AD284
+6C5EB5
+959595
+
+#7777E5 - light blue
+a838a0 - violet
+181090 - dark blue
+*/
+@import url(http://fonts.googleapis.com/css?family=Press+Start+2P);
+
+@font-face {
+    font-family: C64;
+    src: url('/theme/fonts/c64.eot'); /* IE */
+    src: local('Commodore 64'),
+    url('/theme/fonts/c64.ttf')
+    format('truetype');
+}
+
+.columns {
+    position: relative;
+    padding-left: 0.9375rem;
+    padding-right: 0.9375rem;
+    float: left;
+}
+.large-3 {
+
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    min-height: 0px;
+}
+.past-event {
+    background: #f0f;
+}
+.expanded {
+    visibility: visible;
+    opacity: 1;
+    min-height: 20px;
+    padding: 8px;
+}
+
+.collapsed {
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+}
+
+.calendar-item {
+    /*background: #7777E5;*/
+    border: 4px solid #6C5EB5;
+    /*color: #fff;*/
+}
+.event-date {
+    width: 100%;
+    border: 1px solid #303030;
+    background: #a3007a;
+    color: #fff;
+    padding: 8px;
+    /*background: #181090;*/
+    /*color: #7777E5;*/
+    font-family: 'C64', cursive;
+}
+.event-title {
+    width: 100%;
+    padding-left: 8px;
+    /*font-family: 'C64', cursive;*/
+    display: table-row;
+}
