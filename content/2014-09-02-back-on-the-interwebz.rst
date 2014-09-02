@@ -22,4 +22,4 @@ tidigare kunskapsnivå.
 Den 7e september arrangeras "Bakom skärmen - Bortom gränsen".
 Läs mer på hemsidan_. Mer information i en kommande post.
 
-.. _hemsidan : http://telekommunisten.net/the-telekommunist-manifesto/
+.. _hemsidan : http://gransen.nu
