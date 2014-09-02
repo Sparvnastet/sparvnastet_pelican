@@ -66,6 +66,21 @@ sparvnastet`` will end up as ``output/sparvnastet.html``
 Run ``make publish`` to generate HTML-files from your sources.
 NOTE that this will first delete everything in the ``/output`` directory.
 
+
+### Adding files for publishing
+
+Add files that you want to be uploaded the ``/content/files`` directory.
+The contents of the following directories will be copied from ``/content``
+to ``/output``
+
+    STATIC_PATHS = [
+        'images',
+        'files'
+    ]
+
+To define more directories, change the values in ``pelicanconf.py``
+
+
 ### Publishing to sparvnastet.org
 
 The page is served on [sparvnastet.github.io](sparvnastet.github.io).
@@ -76,8 +91,6 @@ It will then push the contents of the ``gh-pages`` branch to the ``sparvnastet.g
 
 NOTE: Never push anything directly to ``sparvnastet.github.io``
 
-
-All content that
 
 ### Changing the layout
 

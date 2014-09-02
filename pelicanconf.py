@@ -29,12 +29,16 @@ SOCIAL = (('twitter', 'https://twitter.com/sparvnastet'),
           ('github', 'https://github.com/sparvnastet'),)
 
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 20
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-STATIC_PATHS = ['images', ]
+# static paths will be copied without parsing their contents
+STATIC_PATHS = [
+    'images',
+    'files'
+]
 
 PLUGINS = [
     'pelican_vimeo',
