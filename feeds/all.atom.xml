@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Sparvnästet</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2014-03-19T14:00:00+01:00</updated><entry><title>Nerdfeministhackkväll</title><link href="/feministhack.html" rel="alternate"></link><updated>2014-03-19T14:00:00+01:00</updated><author><name>Sparvnästet</name></author><id>tag:,2014-03-19:feministhack.html</id><summary type="html">&lt;p&gt;Torsdagen den 27de Mars är alla nördkvinnor välkommna till sparvnästet!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sparvnästet</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2014-09-02T14:00:00+02:00</updated><entry><title>Tillbaka på interwebz</title><link href="/back-on-the-interwebz.html" rel="alternate"></link><updated>2014-09-02T14:00:00+02:00</updated><author><name>Sparvnästet</name></author><id>tag:,2014-09-02:back-on-the-interwebz.html</id><summary type="html">&lt;img alt="" src="images/x-all-the-things.png" /&gt;
+&lt;p&gt;Yes! Nu är vi tillbaka på sparvnastet.org efter osannolikt lång downtime.&lt;/p&gt;
+&lt;p&gt;Vi har flyttat runt mellan olika servrar och det har dessvärre resulterat i att
+en del gamla inlägg kanske har försvunnit. Några gnomer har fått i uppdrag att
+lura reda på hur det ligger till.&lt;/p&gt;
+&lt;p&gt;En hel del saker pågår på Sparvnästet. Studiecirkeln &amp;quot;sju språk på sju månader&amp;quot; är igång för fullt på tisdagar.
+Hittils har Ruby, Io och Prolog gåtts igenom och nu startar genomgången av Scala.
+Studiecirkeln baserar sig på boken 7 Languages in 7 Weeks och är öppen för alla oavsett
+tidigare kunskapsnivå.&lt;/p&gt;
+&lt;p&gt;Den 7e september arrangeras &amp;quot;Bakom skärmen - Bortom gränsen&amp;quot;.
+Läs mer på &lt;a class="reference external" href="http://telekommunisten.net/the-telekommunist-manifesto/"&gt;hemsidan&lt;/a&gt;. Mer information i en kommande post.&lt;/p&gt;
+</summary><category term="sparvnastet"></category></entry><entry><title>Nerdfeministhackkväll</title><link href="/feministhack.html" rel="alternate"></link><updated>2014-03-19T14:00:00+01:00</updated><author><name>Sparvnästet</name></author><id>tag:,2014-03-19:feministhack.html</id><summary type="html">&lt;p&gt;Torsdagen den 27de Mars är alla nördkvinnor välkommna till sparvnästet!&lt;/p&gt;
 &lt;p&gt;Från 18:00 har vi kvinnoseparatistisk allmän labbkväll med lödstationer, arduinos
-och saker att skruva sönder och bygga ihop. Kom och prata feminism och hacking!
-kasjdlkajs&lt;/p&gt;
+och saker att skruva sönder och bygga ihop. Kom och prata feminism och hacking!&lt;/p&gt;
 </summary><category term="sparvnastet workshop feminist"></category></entry><entry><title>Future My Love</title><link href="/futuremylove.html" rel="alternate"></link><updated>2014-03-15T15:00:00+01:00</updated><author><name>Sparvnästet</name></author><id>tag:,2014-03-15:futuremylove.html</id><summary type="html">&lt;img alt="" src="images/futuremylove-thumb.png" /&gt;
 &lt;p&gt;Söndag den 30 Mars visar Sparvnästet filmen «Future My Love». Det är
 en vacker drömsyn där regissören Maja Borg skissar upp konturerna av
