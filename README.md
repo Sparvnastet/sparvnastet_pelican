@@ -68,19 +68,16 @@ NOTE that this will first delete everything in the ``/output`` directory.
 
 ### Publishing to sparvnastet.org
 
-#### Important first step.
-The page is served on sparvnastet.github.io.
-Since the page is served as an organisation-page and not a project-page the master branch
-is the one that's getting served on pages.github.io
-Start with adding that other repository to your git config
+The page is served on [sparvnastet.github.io](sparvnastet.github.io).
 
-    git remote add githubpages git@github.com:Sparvnastet/sparvnastet.github.io.git
-
-
-Now you're all set.
 Run ``make github``. This will first run the ``publish`` command, then run the ``ghp-import`` script
 and add all changes to the ``gh-pages`` branch before pushing it to github.
+It will then push the contents of the ``gh-pages`` branch to the ``sparvnastet.github.io`` repo.
 
+NOTE: Never push anything directly to ``sparvnastet.github.io``
+
+
+All content that
 
 ### Changing the layout
 
