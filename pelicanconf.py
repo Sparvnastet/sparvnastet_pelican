@@ -37,10 +37,17 @@ DEFAULT_PAGINATION = 20
 # static paths will be copied without parsing their contents
 STATIC_PATHS = [
     'images',
-    'files'
+    'files',
+    'extra/CNAME',
 ]
+
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+    }
 
 PLUGINS = [
     'pelican_vimeo',
     'pelican_youtube',
 ]
+
+
