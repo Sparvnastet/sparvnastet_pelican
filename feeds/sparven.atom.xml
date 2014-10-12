@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Sparvnästet</title><link href="/" rel="alternate"></link><link href="/feeds/blog.atom.xml" rel="self"></link><id>/</id><updated>2014-09-03T14:00:00+02:00</updated><entry><title>Över gränsen</title><link href="/cross-the-line.html" rel="alternate"></link><updated>2014-09-03T14:00:00+02:00</updated><author><name>Sparven</name></author><id>tag:,2014-09-03:cross-the-line.html</id><summary type="html">&lt;img alt="" src="images/x-all-the-things.png" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sparvnästet</title><link href="/" rel="alternate"></link><link href="/feeds/sparven.atom.xml" rel="self"></link><id>/</id><updated>2014-09-03T14:00:00+02:00</updated><entry><title>Över gränsen</title><link href="/cross-the-line.html" rel="alternate"></link><updated>2014-09-03T14:00:00+02:00</updated><author><name>Sparven</name></author><id>tag:,2014-09-03:cross-the-line.html</id><summary type="html">&lt;img alt="" src="images/x-all-the-things.png" /&gt;
 &lt;p&gt;Bakom Skärmen – Över Gränsen&lt;/p&gt;
 &lt;p&gt;Söndagen den 7:e september 14:00–17:00 Över gränsen&lt;/p&gt;
 &lt;p&gt;Ett evenemang där Stockholms aktivistiska tekniksammanslutningar sammanstrålar.
@@ -52,7 +52,9 @@ pirantande.&lt;/p&gt;
 &lt;p&gt;Alla är välkomna, evenemanget är gratis och ingen föranmälan behövs.
 Sparvnästets nya lokal ligger på Hangövägen 18 i Värtahamnen. Närmaste
 tunnelbana är Gärdet.&lt;/p&gt;
-</summary><category term="sparvnastet filmvisning"></category></entry><entry><title>Bli medlem i Sparvnästet</title><link href="/join-sparvnastet.html" rel="alternate"></link><updated>2014-03-13T16:00:00+01:00</updated><author><name>Sparven</name></author><id>tag:,2014-03-13:join-sparvnastet.html</id><summary type="html">&lt;img alt="" src="images/enlist.jpg" /&gt;
+</summary><category term="sparvnastet filmvisning"></category></entry><entry><title>Hitta hit</title><link href="/hitta.html" rel="alternate"></link><updated>2014-03-15T00:00:00+01:00</updated><author><name>Sparven</name></author><id>tag:,2014-03-15:hitta.html</id><summary type="html">&lt;p&gt;Vi har vår lokal i Studio Verksamma tillsammans, Hangövägen 18 i Värtahamnen.&lt;/p&gt;
+&lt;p&gt;För att ta sig till lokalen tar man lättast tunnelbanan till Gärdet och promenerar därifrån.&lt;/p&gt;
+</summary><category term="sparvnastet directions"></category></entry><entry><title>Bli medlem i Sparvnästet</title><link href="/join-sparvnastet.html" rel="alternate"></link><updated>2014-03-13T16:00:00+01:00</updated><author><name>Sparven</name></author><id>tag:,2014-03-13:join-sparvnastet.html</id><summary type="html">&lt;img alt="" src="images/enlist.jpg" /&gt;
 &lt;p&gt;Avgiften är 200 kronor/månad för förvärvsarbetande och 100 kronor/månad för övriga.
 Om du tjänar mer än 20000 kronor/månad före skatt föreslår vi att du istället betalar motsvarande 1% av din inkomst före skatt.&lt;/p&gt;
 &lt;p&gt;Om du vill bli medlem så skicka ett mail till sekr[at]sparvnastet.org så får du uppgifter om hur du betalar in din medlemsavgift.&lt;/p&gt;
