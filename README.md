@@ -13,6 +13,7 @@ If you haven't already, install [virtualenvwrapper](http://virtualenvwrapper.rea
     pip install pelican-vimeo
     pip install pelican-youtube
     pip install fabric
+    pip install ghp-import
 
     git clone git@github.com:Sparvnastet/sparvnastet_pelican.git
 
