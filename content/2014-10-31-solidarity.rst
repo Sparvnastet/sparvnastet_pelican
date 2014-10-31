@@ -1,10 +1,12 @@
-:title: Stöduttalande till hemtjänstpersonal som agerar mot övervakning
+:title: Stöduttalande för aktion mot övervakning
 :date: 2014-10-31 16:00
 :category: Blog
 :tags: sparvnastet
 :slug: solidarity
 :authors: Sparven
 :summary: Stöduttalande till hemtjänstpersonal som agerar mot övervakning
+
+**Stöduttalande till hemtjänstpersonal som agerar mot övervakning**
 
 Sparvnästet har flera gånger och på olika sätt engagerat sig i frågan
 om statlig och privat övervakning. Genom crypto parties och
