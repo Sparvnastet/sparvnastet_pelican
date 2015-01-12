@@ -1,0 +1,37 @@
+:title: 2015 : Hackernomadens år
+:date: 2015-01-12 16:00
+:category: Blog
+:tags: sparvnastet
+:slug: 2015
+:authors: Sparven
+:summary: Våra planer inför året
+
+**2015 : Hackernomadens år**
+
+Sparvnästet har nu dragit igång sin verksamhet för året. Vi kör vidare
+med våra Tisdagshack, varje Tisdag kl 18:00 på Viskagränd 8 i
+Bagarmossen.
+
+Vi har även funderat på vad mer vi vill göra under året. En sak vi
+tänkte prova är att besöka andra intressanta platser och grupper. Dels
+för att det är oklart om vi kan behålla lokalen längre än till sista
+Mars och dels för att det är kul att träffa nya och gamla bekanta. Mer
+information om detta kommer.
+
+Här är ett axplock av andra lösa idéer vi funderar på:
+
+* Barnprogrammering. Tillsammans med bibliotek?
+* Experiment med Fourier-optik
+* Food-hacking
+* Reverse Engineering (RE) kurs/lab-ish
+* Software Defined Radio (SDR)
+* Cryptoparty, Minst ett party 2015 - gärna fler
+* Teknopolitisk läsecirkel (online)
+* Leka med `Snoop Snitch
+  <https://opensource.srlabs.de/projects/snoopsnitch>`_ &
+  `GSM Map
+  <http://gsmmap.org/>`_
+* Instruments of tech-torture - ett konstprojekt(?)
+
+
+Är du nyfiken på Sparvnästet? Kom och hälsa på oss någon tisdag. Kanske redan imorgon!
