@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sparvnästet</title><link>/</link><description></description><atom:link href="/feeds/sparven.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 10 Dec 2014 00:00:00 +0100</lastBuildDate><item><title>Moving again</title><link>/moving.html</link><description>&lt;p&gt;We sadly couldn't afford to keep the place at Hangövägen, but we've found a great new place in Bagarmossen!&lt;/p&gt;
-&lt;p&gt;The new address is Bagarmossen på Viskagränd 8.&lt;/p&gt;
-&lt;p&gt;We still meet at tuesdays from 18:00, you're welcome to join us!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sparven</dc:creator><pubDate>Wed, 10 Dec 2014 00:00:00 +0100</pubDate><guid>tag:,2014-12-10:moving.html</guid><category>sparvnastet directions</category></item><item><title>Stöduttalande för aktion mot övervakning</title><link>/solidarity.html</link><description>&lt;p&gt;&lt;strong&gt;Stöduttalande till hemtjänstpersonal som agerar mot övervakning&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sparvnästet</title><link>/</link><description></description><atom:link href="/feeds/sparven.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 12 Jan 2015 16:00:00 +0100</lastBuildDate><item><title>2015 : Hackernomadens år</title><link>/2015.html</link><description>&lt;p&gt;&lt;strong&gt;2015 : Hackernomadens år&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sparvnästet har nu dragit igång sin verksamhet för året. Vi kör vidare
+med våra Tisdagshack, varje Tisdag kl 18:00 på Viskagränd 8 i
+Bagarmossen.&lt;/p&gt;
+&lt;p&gt;Vi har även funderat på vad mer vi vill göra under året. En sak vi
+tänkte prova är att besöka andra intressanta platser och grupper. Dels
+för att det är oklart om vi kan behålla lokalen längre än till sista
+Mars och dels för att det är kul att träffa nya och gamla bekanta. Mer
+information om detta kommer.&lt;/p&gt;
+&lt;p&gt;Här är ett axplock av andra lösa idéer vi funderar på:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Barnprogrammering. Tillsammans med bibliotek?&lt;/li&gt;
+&lt;li&gt;Experiment med Fourier-optik&lt;/li&gt;
+&lt;li&gt;Food-hacking&lt;/li&gt;
+&lt;li&gt;Reverse Engineering (RE) kurs/lab-ish&lt;/li&gt;
+&lt;li&gt;Software Defined Radio (SDR)&lt;/li&gt;
+&lt;li&gt;Cryptoparty, Minst ett party 2015 - gärna fler&lt;/li&gt;
+&lt;li&gt;Teknopolitisk läsecirkel (online)&lt;/li&gt;
+&lt;li&gt;Leka med &lt;a class="reference external" href="https://opensource.srlabs.de/projects/snoopsnitch"&gt;Snoop Snitch&lt;/a&gt; &amp;amp;
+&lt;a class="reference external" href="http://gsmmap.org/"&gt;GSM Map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instruments of tech-torture - ett konstprojekt(?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Är du nyfiken på Sparvnästet? Kom och hälsa på oss någon tisdag. Kanske redan imorgon!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sparven</dc:creator><pubDate>Mon, 12 Jan 2015 16:00:00 +0100</pubDate><guid>tag:,2015-01-12:2015.html</guid><category>sparvnastet</category></item><item><title>Stöduttalande för aktion mot övervakning</title><link>/solidarity.html</link><description>&lt;p&gt;&lt;strong&gt;Stöduttalande till hemtjänstpersonal som agerar mot övervakning&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Sparvnästet har flera gånger och på olika sätt engagerat sig i frågan
 om statlig och privat övervakning. Genom crypto parties och
 konstprojekt har vi utforskat tekniska strategier för att göra
@@ -72,8 +92,8 @@ pirantande.&lt;/p&gt;
 &lt;p&gt;Alla är välkomna, evenemanget är gratis och ingen föranmälan behövs.
 Sparvnästets nya lokal ligger på Hangövägen 18 i Värtahamnen. Närmaste
 tunnelbana är Gärdet.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sparven</dc:creator><pubDate>Sat, 15 Mar 2014 15:00:00 +0100</pubDate><guid>tag:,2014-03-15:futuremylove.html</guid><category>sparvnastet filmvisning</category></item><item><title>Hitta hit</title><link>/hitta.html</link><description>&lt;p&gt;Vi har vår lokal i Bagarmossen på Viskagränd 8.&lt;/p&gt;
-&lt;p&gt;För att ta sig till lokalen tar man lättast tunnelbanan till Bagarmossen och promenerar därifrån.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sparven</dc:creator><pubDate>Sat, 15 Mar 2014 15:00:00 +0100</pubDate><guid>tag:,2014-03-15:futuremylove.html</guid><category>sparvnastet filmvisning</category></item><item><title>Hitta hit</title><link>/hitta.html</link><description>&lt;p&gt;Vi har vår lokal i Studio Verksamma tillsammans, Hangövägen 18 i Värtahamnen.&lt;/p&gt;
+&lt;p&gt;För att ta sig till lokalen tar man lättast tunnelbanan till Gärdet och promenerar därifrån.&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sparven</dc:creator><pubDate>Sat, 15 Mar 2014 00:00:00 +0100</pubDate><guid>tag:,2014-03-15:hitta.html</guid><category>sparvnastet directions</category></item><item><title>Bli medlem i Sparvnästet</title><link>/join-sparvnastet.html</link><description>&lt;img alt="" src="images/enlist.jpg" /&gt;
 &lt;p&gt;Avgiften är 200 kronor/månad för förvärvsarbetande och 100 kronor/månad för övriga.
 Om du tjänar mer än 20000 kronor/månad före skatt föreslår vi att du istället betalar motsvarande 1% av din inkomst före skatt.&lt;/p&gt;
@@ -189,6 +209,6 @@ ett dygnet-runt event från fredag till söndag med workshops och föreläsninga
 Hacking is a way of liberating, opening and accessing various kinds of information. In this respect, it is a resistance movement, a highly self-organised and anarchic fashion. Hacking involves manipulation of existing computer systems and political structures. It is also a labyrinthine experimentation that explores new fields. It is used as a method of putting programming to new purposes.
 Sparvnästet) (The Sparrow's Nest) is a Swedish hackerspace that meets every Tuesday evening at 6.00 pm to hack together. Everyone is welcome to participate. They learn from each other, experimenting and examining grey zones in complex technological systems by creating interventions in them. Sparvnästet is featured at Screen with the work Join Us;, a film introduction describing the collective's aims to liberate different kinds of information and make it available.&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sparven</dc:creator><pubDate>Wed, 25 Jul 2012 00:00:00 +0200</pubDate><guid>tag:,2012-07-25:sparvnastet-join-us.html</guid><category>sparvnästet</category></item><item><title>Sparvnästet!</title><link>/sparvnastet.html</link><description>&lt;p&gt;Sparvnästet är ett hackspace i Stockholm. Vi träffas varje tisdag från klockan 18:00 i vår lokal på Viskagränd 8 i Bagarmossen.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sparven</dc:creator><pubDate>Wed, 25 Jul 2012 00:00:00 +0200</pubDate><guid>tag:,2012-07-25:sparvnastet-join-us.html</guid><category>sparvnästet</category></item><item><title>Sparvnästet!</title><link>/sparvnastet.html</link><description>&lt;p&gt;Sparvnästet är ett hackspace i Stockholm. Vi träffas varje tisdag från klockan 18:00 i vår lokal på Hangövägen 18 i Värtahamnen (tunnelbana Gärdet).
 Ta med din dator, ditt projekt eller din robot och kom förbi och hälsa på!&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sparven</dc:creator><pubDate>Wed, 23 May 2012 00:00:00 +0200</pubDate><guid>tag:,2012-05-23:sparvnastet.html</guid><category>sparvnästet</category></item></channel></rss>
