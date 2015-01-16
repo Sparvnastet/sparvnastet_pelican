@@ -37,7 +37,7 @@ och andra.
 
 Välkommen!
 
-**Träff 0 - Intro och uppstart** - *2015-02-18 (ons) 21:00 - 22:00*
+**Träff 0** - `Intro och uppstart <studygroup-0.html>`_ - **2015-02-18 (ons) 21:00 - 22:00**
 
 Lite blandad praktisk information. Kom i gång med chatten
 (instruktioner kommer snart).
