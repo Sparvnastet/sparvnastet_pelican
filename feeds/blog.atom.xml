@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Sparvnästet</title><link href="/" rel="alternate"></link><link href="/feeds/blog.atom.xml" rel="self"></link><id>/</id><updated>2015-01-13T18:00:00+01:00</updated><entry><title>Tisdagshack och Fouriertransformen</title><link href="/fourier.html" rel="alternate"></link><updated>2015-01-13T18:00:00+01:00</updated><author><name>Sparven</name></author><id>tag:,2015-01-13:fourier.html</id><summary type="html">&lt;p&gt;På senaste tisdagshacket snöade vi in på &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Fourier_transform"&gt;Fouriertransformen&lt;/a&gt; rätt rejält.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sparvnästet</title><link href="/" rel="alternate"></link><link href="/feeds/blog.atom.xml" rel="self"></link><id>/</id><updated>2015-01-16T18:00:00+01:00</updated><entry><title>Teknopolitisk Studiegrupp</title><link href="/studygroup-teaser.html" rel="alternate"></link><updated>2015-01-16T18:00:00+01:00</updated><author><name>Sparven</name></author><id>tag:,2015-01-16:studygroup-teaser.html</id><summary type="html">&lt;p&gt;I mitten på Februari siktar vi på att köra igång med
+studieprogrammet. Mer detaljerad information om innehållet kommer när
+vi närmar oss första träffen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Målet med studierna förstå hur teknik/hacker-kultur fungerar i ett
+större, filosofiskt och politiskt sammanhang.&lt;/strong&gt; Vi läser olika texter,
+funderar och träffas sedan på Internet för att
+diskutera. Studiegruqppen är öppen för alla och gratis; du behöver
+inte vara medlem i Sparvnästet. Studieträffarna är fristående och man
+kan välja att delta i en eller flera.&lt;/p&gt;
+&lt;p&gt;Planen är att vi gräver där vi står genom att studera vår
+högteknologiska kultur med några av de verktyg som framgångsrikt
+använts innom andra områden. Vad betyder feministisk-analys, vad är
+queerteori och vad kan de lära oss om dataspel? Kan marxistisk
+ekonomisk teori fördjupa vår kunskap om produktionen av fri mjukvara?
+Vi trevar oss fram, experimenterar, forskar och skapar förhoppningsvis
+tillsammans en bättre förståelse för vad vi håller på med.&lt;/p&gt;
+&lt;p&gt;Konkret kommer det att gå till såhär; Sparvnästet presenterar en
+studieplan med ett par områden vi vill fördjupa oss i. Varje område
+presenteras kort tillsammans med en litteraturlista. Deltagare
+studerar och funderar på ett område under två veckor, sedan träffas vi
+på nätet för att diskutera. Mer detaljer kommer snart...&lt;/p&gt;
+&lt;p&gt;Vi hoppas på en blandning av deltagare med olika bakgrund; hackers,
+makers, aktivister, filosofer, diy-entisaster, programmerare, gamers
+och andra.&lt;/p&gt;
+&lt;p&gt;Välkommen!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Träff 0 - Intro och uppstart&lt;/strong&gt; - &lt;em&gt;2015-02-18 (ons) 21:00 - 22:00&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Lite blandad praktisk information. Kom i gång med chatten
+(instruktioner kommer snart).&lt;/p&gt;
+&lt;p&gt;Vi håller antagligen inte på en hel timme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Träff 1 - Gamergate&lt;/strong&gt; - &lt;em&gt;2015-03-04 (ons) 21:00 - 22:00&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Under hösten 2014 exploderade en hatbomb på Internet. Intensiteten och
+brutaliteten i de attacker som riktades mot flera framstående kvinnor
+i dataspelsvärlden kom som en chock för många.&lt;/p&gt;
+&lt;p&gt;Vi vill ta reda på vad som hände och varför. Vi undersöker sexism och
+kvinnohat i dataspelsvärlden, och i dataspelen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Träff 2 - Fri mjukvara&lt;/strong&gt; - &lt;em&gt;2015-03-18 (ons) 21:00 - 22:00&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Fri mjukvara är en unik företeelse i vårt sammhälle. Det utmanar
+föreställningar om lönearbete och ägande på ett radikalt sätt och är
+samtidigt vida accepterat och över allt närvarande.&lt;/p&gt;
+&lt;p&gt;Vi undersöker vad som motiverar programmerare att &amp;quot;jobba gratis&amp;quot;, vem
+som tjänar på fri mjukvara och om ekonomisk teori kan ge några
+ledtrådar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Träff 3 - Hackerkultur - identitet&lt;/strong&gt; - &lt;em&gt;2015-04-01 (ons) 21:00 - 22:00&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Finns en hackerkultur eller en hackeridentitet? Hur är den i så fall beskaffad?&lt;/p&gt;
+&lt;p&gt;Vi går till källor som anses centrala för hackerkulturen och funderar
+på hur (och vilka) som format kulturen. Vi försöker hitta exempel på
+identitetsskapande cermonier, auktoriteter, attribut, språk, mm.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Träff 4 - Hackerkultur - vem är välkommen?&lt;/strong&gt; - &lt;em&gt;2015-04-15 (ons) 21:00 - 22:00&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Om en bortser från den hackeridentitet, som studeras i förra träffen,
+och interna splitringar i den, finns ett antal konfliktlinjer kvar i
+hackergemenskapen. Det handlar om inkluderande/exkluderande längs med
+kategorier som finns i sammhället runt omkring; kön, ras, klass, etc.&lt;/p&gt;
+&lt;p&gt;I den här träffen undersöker vi hur debatten ser ut i
+hackergemenskapen; finns den alls, var förs den och skiljer den sig
+från debatten i samhället runt omkring?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Träff 5 - Hackers och aktivister&lt;/strong&gt; - &lt;em&gt;2015-04-29 (ons) 21:00 - 22:00&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;När Stratfor hackades publicerades texten &amp;quot;Det stundande upproret&amp;quot; på
+sidan. Det är en radikal politisk text, vilket gav hacket en
+aktivistisk kontext.&lt;/p&gt;
+&lt;p&gt;Under den här träffen undersöker vi relationen mellan hackers och
+politiska aktivister. Hur ser sammarbeten ut med &amp;quot;vanliga&amp;quot;
+aktivistgrupper och i vilken utsträckning är det hackers som själva är
+aktivister.&lt;/p&gt;
+</summary><category term="sparvnastet"></category></entry><entry><title>Tisdagshack och Fouriertransformen</title><link href="/fourier.html" rel="alternate"></link><updated>2015-01-13T18:00:00+01:00</updated><author><name>Sparven</name></author><id>tag:,2015-01-13:fourier.html</id><summary type="html">&lt;p&gt;På senaste tisdagshacket snöade vi in på &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Fourier_transform"&gt;Fouriertransformen&lt;/a&gt; rätt rejält.&lt;/p&gt;
 &lt;p&gt;Först experimenterade vi med laser och &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Fourier_transform"&gt;fourieroptik.&lt;/a&gt;. Det var kul men
 visade sig svårt att få bra resultat med vår quick-n-dirty labmiljö:&lt;/p&gt;
 &lt;img alt="fourier optics" class="align-center" src="images/fourier.png" /&gt;
