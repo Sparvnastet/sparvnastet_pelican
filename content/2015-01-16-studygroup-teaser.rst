@@ -9,9 +9,9 @@
 I mitten på Februari siktar vi på att köra igång med
 studieprogrammet.
 
-**Målet med studierna förstå hur teknik/hacker-kultur fungerar i ett
-större, filosofiskt och politiskt sammanhang.** Vi läser olika texter,
-funderar och träffas sedan på Internet för att
+**Målet är att förstå hur teknik/hacker-kultur fungerar
+i ett större, filosofiskt och politiskt sammanhang.** Vi läser olika
+texter, funderar och träffas sedan på Internet för att
 diskutera. Studiegruqppen är öppen för alla och gratis; du behöver
 inte vara medlem i Sparvnästet. Studieträffarna är fristående och man
 kan välja att delta i en eller flera.

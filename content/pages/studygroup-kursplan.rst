@@ -10,12 +10,17 @@ Detta är studieplanen för **Sparvnästets teknopolitiska
 studiegrup**. Här hittar du literaturlista och datum för de olika
 teman vi skall studera.
 
+Det finns även ett par frågor till varje träff. Du kan utgå ifrån
+dessa, eller hitta på helt egna frågeställningar.
+
 Bakgrund och generell information om studiegruppen hittar du i `vårt
 tidigare bloginlägg </studygroup-teaser.html>`_ . Information om hur
 du kommer in i chattrummet vi använder finns på `introträff-sidan
 </pages/studygroup-0.html>`_.
 
-**Träff 0 - Introduktion** - *2015-02-18 - 21:00 - 22:00*
+Träff 0 - Introduktion
+----------------------
+**2015-02-18 - 21:00 - 22:00**
 
 Lite blandad praktisk information. Vi håller antagligen inte på en hel
 timme.
@@ -110,6 +115,8 @@ ledtrådar.
 
 **Studiematerial:**
 
+*Literaturlistan till den här träffen är ännu inte helt klar...*
+
 | "Gift and Free Software" - Matthias Studer
 | http://www.commoner.org.uk/09studer.pdf
 |
@@ -153,6 +160,8 @@ identitetsskapande cermonier, auktoriteter, attribut, språk, mm.
 |
 
 **Studiematerial:**
+
+*Literaturlistan till den här träffen är ännu inte helt klar...*
 
 | "Is it a Hackerspace, Makerspace, TechShop, or FabLab?" - Gui Cavalcanti
 | http://makezine.com/2013/05/22/the-difference-between-hackerspaces-makerspaces-techshops-and-fablabs/
@@ -223,6 +232,8 @@ från debatten i samhället runt omkring?
 
 **Studiematerial:**
 
+*Literaturlistan till den här träffen är ännu inte helt klar...*
+
 | "Dear Hacker Community – We Need To Talk" - Asher Wolf
 | http://web.archive.org/web/20130904192251/http://asherwolf.net/dear-hacker-community-we-need-to-talk/101/
 |
@@ -276,7 +287,9 @@ från debatten i samhället runt omkring?
 | `hackingintohacking.txt </files/hackingintohacking.txt>`_
 |
 
-**Träff 5 - Hackers och aktivister** - *2015-04-29 - 21:00 - 22:00*
+Träff 5 - Hackers och aktivister
+--------------------------------
+**2015-04-29 - 21:00 - 22:00**
 
 När Stratfor hackades publicerades texten "Det stundande upproret" på
 sidan. Det är en radikal politisk text, vilket gav hacket en
@@ -286,3 +299,71 @@ Under den här träffen undersöker vi relationen mellan hackers och
 politiska aktivister. Hur ser sammarbeten ut med "vanliga"
 aktivistgrupper och i vilken utsträckning är det hackers som själva är
 aktivister.
+
+Språket i vissa av texterna till den här träffen är svårt, politiskt
+och akademiskt. Anteckna sådant du undrar över och ta upp det på
+chatt-träffen.
+
+**Studiefrågor:**
+
+| > Vilka politiska hack eller hackergrupper kan du komma på?
+| > Vilka politiska frågor intresserar hackers?
+| > Vad är hacktivism?
+| 
+
+**Studiematerial:**
+
+*Literaturlistan till den här träffen är ännu inte helt klar...*
+
+| "The Rise Of The Hacktivist" - Lindsay ONeal
+| http://techli.com/2012/02/the-rise-of-the-hacktivist/
+|
+| "The Rise and Fall of Jeremy Hammond: Enemy of the State" - Janet Reitman
+| http://www.rollingstone.com/culture/news/the-rise-and-fall-of-jeremy-hammond-enemy-of-the-state-20121207
+|
+| Jeremy Hammond at DEFCON 2004 (27 min video)
+| http://vimeo.com/38329327
+| 
+| "The coming insurrection" - The Invisible Committee:
+| Läs kapitlet: "Fourth Circle: More simple, more fun, more mobile, more secure!”
+| http://tarnac9.wordpress.com/texts/the-coming-insurrection/
+|
+| The Invisible Committee Returns with "Fuck Off Google":
+| https://events.ccc.de/congress/2014/Fahrplan/system/attachments/2530/original/fuckoffgoogleeng.pdf
+|
+| Ett exempel på vad "Fuck off google" pappret handlar om:
+| "Hackare till hjälp i stadsutveckling" - Linda Nohrstedt
+| http://www.nyteknik.se/nyheter/it_telekom/internet/article3875241.ece
+|
+| Cyber Marx, kapitel 8, sid. 25-33
+| "Zero State: Computerised Counter-Planning"
+| https://libcom.org/files/Chapter8.pdf
+|
+| "The Real Role Of Anonymous In Occupy Wall Street" - Sean Captain 
+| http://abcnews.go.com/Business/occupy-wall-street-dark-side-hacking-threats-dirt/story?id=14706311
+| http://www.fastcompany.com/1788397/real-role-anonymous-occupy-wall-street
+| 
+| "#opIsrael – Anonymous stands by Palestine in this time of war and grief"
+| http://web.archive.org/web/20121122001314/http://anonrelations.net/anonymous-opisrael-95
+|
+| "Envisioning a Hamlet Economy:  Topology of Sustainability and Fulfilled Ontogeny" - Jeff Vail
+| http://www.jeffvail.net/2006/04/envisioning-hamlet-economy-topology-of.html
+|
+| "Free Beer" - Written by speakers at FSCONS 2008
+| http://www.johansoderberg.net/sub02/freebeer-1.2.pdf
+|
+| "Hackerspace Movement:  A Plan for a New Economy" - @Xer0Dynamite
+| http://hackerspaces.org/wiki/Business_Plan
+|
+| Riseup.net - Political Principles
+| https://help.riseup.net/en/about-us/politics
+|
+| Cyber Marx, kapitel 4, sid. 5-43
+| https://libcom.org/files/Chapter4.pdf
+|
+| "Your License to Kill Is Hereby Revoked" - PETA (Jeff Mackey)
+| http://www.peta.org/blog/license-kill-hereby-revoked/
+| License text: http://hpl.4zm.org/
+|
+| Djurrättsaktivister använder quadcopter för att dokumentera tjuvjakt:
+| https://www.youtube.com/watch?v=L3DmZAx0bdQ
