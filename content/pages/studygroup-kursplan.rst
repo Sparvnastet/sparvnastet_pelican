@@ -11,7 +11,7 @@ studiegrup**. Här hittar du literaturlista och datum för de olika
 teman vi skall studera.
 
 Det finns även ett par frågor till varje träff. Du kan utgå ifrån
-dessa, eller hitta på helt egna frågeställningar.
+dessa när du läser, eller hitta på helt egna frågeställningar.
 
 Bakgrund och generell information om studiegruppen hittar du i `vårt
 tidigare bloginlägg </studygroup-teaser.html>`_ . Information om hur
@@ -22,8 +22,8 @@ Träff 0 - Introduktion
 ----------------------
 **2015-02-18 - 21:00 - 22:00**
 
-Lite blandad praktisk information. Vi håller antagligen inte på en hel
-timme.
+`Lite blandad praktisk information </pages/studygroup-0.html>`_.  Vi
+håller antagligen inte på en hel timme.
 
 Träff 1 - Gamergate
 -------------------
@@ -109,7 +109,6 @@ ledtrådar.
 
 | > Är fri mjukvara en gåvoekonomi?
 | > Behövs proprietär inkomstbringande mjukvara för att fri och gratis mjukvara skall produceras?
-| > GPL- vs MIT-licenserna, vilka är "friast"?
 | > Varför "arbeta gratis", motivation för produktion?
 |
 
@@ -247,6 +246,9 @@ från debatten i samhället runt omkring?
 | "It’s Not “Too Late” for Female Hackers" - Katie Siegel
 | http://soshitech.com/2013/12/29/its-not-too-late-for-female-hackers/
 |
+| "Hacking into Hacking: Gender and the Hacker Phenomenon" -  A. E. Adam
+| `hackingintohacking.txt </files/hackingintohacking.txt>`_
+|
 | "31c3: inclusivity, bias and awareness" - Zara
 | http://zararah.net/blog/2015/01/04/31c3-inclusivity-bias/
 |
@@ -283,9 +285,6 @@ från debatten i samhället runt omkring?
 | Double Union is a hacker/maker space for women in San Francisco.
 | https://www.doubleunion.org/
 |
-| "Hacking into Hacking: Gender and the Hacker Phenomenon" -  A. E. Adam
-| `hackingintohacking.txt </files/hackingintohacking.txt>`_
-|
 
 Träff 5 - Hackers och aktivister
 --------------------------------
@@ -293,7 +292,8 @@ Träff 5 - Hackers och aktivister
 
 När Stratfor hackades publicerades texten "Det stundande upproret" på
 sidan. Det är en radikal politisk text, vilket gav hacket en
-aktivistisk kontext.
+aktivistisk kontext. Gruppen bakom texten, som inte är hackers, dök
+sedan upp på hacker kongressen CCC med en ny text: "Fuck Off Google".
 
 Under den här träffen undersöker vi relationen mellan hackers och
 politiska aktivister. Hur ser sammarbeten ut med "vanliga"

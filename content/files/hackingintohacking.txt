@@ -1,0 +1,853 @@
+ACM Digital Library
+
+ACM SIGCAS Computers and Society
+Volume 32, Number 7 (2004)
+Hacking into Hacking: Gender and the Hacker Phenomenon
+A. E. Adam
+Information Systems Research Centre, University of Salford, Salford M5
+4WT, UK
+Tel: +44 161 295 3125
+a.adam@salford.ac.uk <mailto:a.adam@salford.ac.uk>
+
+Abstract
+
+Women hackers, and whether there are any, has proved to be an endlessly
+fascinating topic. This paper explores the gender dimension s of hacking
+in terms of the male domination of hacking, the presence or absence of
+women hackers, the influence of the frontier metaphor and especially "
+frontier masculinity." Central tenets of the "hacker ethic" are examined
+including whether hacker communities are more egalitarian than other
+communiti es, the equal opportunities, freedom of information and work
+ethics of the hacker ethic. Whilst these are all problematic in gender
+terms there are hints that a female version of the hacker ethic is
+emerging amongst women hackers which is more explicitly political in
+motivation.
+
+Keywords
+
+women hackers, the hacker ethic, frontier masculinity, feminist ethics
+
+INTRODUCTION
+
+
+Although gender as an analytical tool has begun to emerge as a fruitful
+area for research within computer ethics in recent years (Adam 2001a,
+2001b) there is a need for more exploration of computer ethics topics in
+terms of gendered relations within the context of a feminist analysis;
+this is particularly important for topics where there is an implicit
+gender dimensi on which may be as yet underexplored. The chosen topic
+for this essay is the hack ing phenomenon. In what follows, an analysis
+of hacking is elaborated in terms of a discussion of the male domination
+of hacking, an examination of the interest generated in the presence or
+absence of women hackers, and a consideration of the influence of the
+frontier metaphor and "frontier masculinity." A number of tenets central
+to the "hacker ethic" are explored, in order to render their gender
+dimension more visible, and to question whether the hacker ethic serves
+men and women equally well. These include the question of whether hacker
+communities are more egalitarian than other communities, and the equal
+opportunities, freedom of information and work ethics of the hacker
+ethic. Whilst these are all problematic, there are some hints that a
+female version of the hacker ethic might be emerging where women hackers
+are making a conscious political stand through their hacking activities.
+A great deal has been written on the business of hacking; it excites
+much inte rest in the media and has also been subject to academic
+scrutiny (Taylor, 1999). It is not the intention of this essay to
+approve or disapprove of hacking acti vities, nor to argue the merits of
+definitional statements on hacking made by those involved in hacker
+activities and by others (Raymond, 2001). Nevertheless it is clearly
+useful to recognize that some commentators are anxious to distingui sh
+between those whose activities fall under the banner of "enthusiast
+progr ammer", within the vein of Steven Levy's (1984) original
+definition of the rise of the movement in the computer centers of MIT
+and Stanford in the 1960s and 1970s, and the illegal and anti-social
+activities of others. However, this acknowledg es that some of the
+"pranks" of the early hackers would clearly not be sanctioned under
+later legislation and heightened awareness of security infrin gements.
+Additionally, some activities fall into a gray area between what is
+legal and what is not. Eric Raymond (2001), High Priest of the Open
+Source Software move ment and hacker extraordinaire, is keen to
+emphasize the distinction between " hacker" as benignly motivated
+programming enthusiast and "cracker" as progra mmer outlaw. Although it
+is beyond the remit of this essay to offer an extensive elaboration of
+the difference, the hacker/cracker distinction must be recogniz ed, as
+both are of interest in ethical terms, and especially in relation to
+gender . Hence the remainder of this account will encompass both
+categories. Unfortunat ely the hacker/cracker terminology does not seem
+to have been widely adopted and, certainly within media reports,
+"hacking" is often used for illegal activity; legal hacking appears to
+be of less interest to the media. This use of the term "hacking" is not
+confined to the broadcast and print med ia as Paul Taylor's (1999)
+recent academic study of hackers concentrates on the IT underworld.
+Therefore, in what follows, it appears to be wise to let the sources
+make their own definitions and to follow these as far as possible.
+
+MALE DOMINATION OF HACKING
+
+
+There is a considerable literature on the relatively low numbers of
+women present in all aspects of computing and IT, except for office ,
+administrative and secretarial roles where women predominate (Webster,
+1996). This focus has been so strong that it has tended to dominate
+research on gende r and IT and it is hard to dispel the notion that the
+gender and IT question is largely a numbers game. As Lancaster (2003)
+explains, assuming that equal numb ers of women and men in IT spells
+equality, is a trap for the unwary. Women may be present in a work or
+educational setting in considerable numbers (e.g. in offices) and yet
+still be in a disadvantaged position as they are at low level s in the
+hierarchy. This suggests that programs which attempt to draw women into
+areas where they are in a minority e.g. science and engineering, are
+unlikely to be successful if they base themselves on publicity campaigns
+without unders tanding the deeper reasons why women are absent in the
+first place.
+Given these concerns it would not be surprising to find that hacking is
+also dominated by men. As it is strongly linked to identifying with ICTs
+and techno logy we should expect to find that is predominantly a male
+preserve and thus is bor ne out by major studies (Taylor, 1999).
+However, leaving statistics to the side for a moment, I argue that there
+are additional features of the male dominance of the hacking phenomenon
+which are just as important in the analysis. It is instructive to
+characterize women's absence or presence in the world of hackin g by
+comparison with what is written on women in more traditional aspects of
+com puting. This serves to focus the analysis on finding what may be
+intrinsically differe nt about hacking in gender terms, rather than
+rehearsing arguments which may be common to gender and ICTs, in general,
+and therefore which will not get to the heart of the gender question in
+the hacker phenomenon. Features of such a comp arison include media and
+academic interest in women hackers and explanations for thei r presence
+and absence. Do such explanations differ, in significant ways, from
+discussions of traditional computing roles? For instance, we could
+consider media portrayals of women hackers and how these are different
+from accounts of prominent women in IT in education and industry.
+A second, less obvious, point for comparison involves comparing the
+desirabili ty of women entering computing and the desirability of women
+entering hacking. Much of the discussion on women's absence from
+computing ultimately leads back to the question of how to attract more
+women into the discipline. Often the desirability of attracting more
+women into computing is not examined; it is accepted as fairly obvious
+that it is desirable to get women into interesting, well paid jobs which
+are usually (barring periodic recessions) fairly plentifu l. However it
+should be noted that the argument for getting more women into compu ting
+is often economic, relating to industry shortages rather than in terms
+of givi ng women better career opportunities (Henwood, 1993). There is
+no parallel argume nt for a shortage of hackers. Hence we would not
+expect to find similar rhetoric surrounding the idea of getting more
+women into hacking and yet the merit of more women becoming hackers has
+indeed been raised (Sollfrank 2001). Exploring this, in terms of women's
+complex and ambiguous relationships with ICTs, means that we need not
+subscribe to a stereotyped view of women as technophobes, who must be
+persuaded and cajoled into using ICTs. This also suggests that we may
+need to update our views on hacking, which again may be rather that we
+need more sophisticated ways of exploring men's and women's changing
+relationships with technology.
+
+THE FEMALE HACKER - PRESENCE OR ABSENCE COMPARED TO IT IN GEN ERAL
+
+
+Taylor (1999) notes the fundamentally masculine nature of hacking.
+Hacking culture is young, male, technologically oriented, and on the
+margins of the computing industry. Against one of the major tenets of
+the &quo t;hacker ethic," namely the assertion that there should be no
+discrimination on the grounds of "bogus" criteria (Levy 1984; 41) of
+age, class, race etc., Taylor (ibid.:32) finds the absence of women
+hackers to be an "unex plained statistic." He focuses on the traditional
+factors discouraging women from computing, namely social stereotyping,
+masculine "locker room" envir onment and gender bias in computing
+language, and applies these to the hacker phenome non. Importantly he
+notes that, even if we take all the traditional deterrent facto rs into
+account, given the fraction of women with computing qualifications and
+therefore with the technical skills to become hackers, statistically we
+would expect to see more women hackers. So if there are fewer than
+expected, this suggests that there are further factors operating.
+In his empirical study of hackers, respondents found it difficult to
+identify the reasons why there are fewer women hackers than might be
+expected, tending to offer arguments based on psychological mastery.
+Taylor (1999; 36) suggests that whilst such arguments can be
+biologically deterministic, "they at least offer a succinct explanation
+for the statistical expectation yet non-app earance of female hackers."
+However he is not totally convinced by simple argumen ts, pointing
+instead towards the Wild West brand of masculinity portrayed in hacke r
+culture, the misogyny displayed by men who can hide behind the anonymity
+of the Internet and the association of technology with desire, eroticism
+and arti ficial creation. These are certainly arguments which other
+authors have drawn upon in their analysis of gender relations in ICTs.
+For instance, Susan Herring's (1996) research on gendered computer
+mediated communications suggests that gen dered stereotypes are often
+magnified in electronic communication with men more like ly to flame and
+women more likely to use supportive styles of speech. The link between
+technology and artificial creation, through artificial intelligence and
+artificial life, and how this relates to masculinity has been noted by a
+number of authors (Adam, 1998: Helmreich, 1994: Kember, 2003).
+I agree that these two points in Taylor's analysis, misogynistic, often
+anonym ous, communication and artificial creation are implicated in
+gender relations in ICTs. However, given the point, made above, that we
+need to find what it is about hacking that demarcates it from the "women
+in computing" issue in general, it is hard to see how they can act as
+convincing explanations for the relative absence of women in hacking
+over and above women's presence or absence in computing in overall
+terms; there seems to be nothing special to connect them unequivocally
+to the hacker phenomenon. However, given that the "Wild West" or
+frontier spirit does not appear not be a significant metaphor in
+mainstream computing (most of us do not regard our day at the offi ce in
+terms of patrolling the Electronic Frontier with a cyberposse, for
+instance ), it would be reasonable to explore the concept of the
+frontier with the expecta tion that it may prove a more potent
+explanatory device.
+
+Frontiers
+
+
+For instance, the idea of a frontier, and more specifically the "wild
+west" frontier is a potent metaphor for Internet commentat ors who have
+often conceptualized the Internet as an "electronic frontier.&qu ot;
+(Brail, 1996; Kramer & Kramarae, 1997; Ludlow, 1996; Sterling, 1992).
+Joan ne Hitchcock (Mingo, 2000) and Stephanie Brail (1996), both of whom
+were stalked on the Internet, explicitly use the idea of the frontier in
+the description of their stalking cases. The acknowledgement of a
+geographical frontier may imply that expectations of behavior might be
+different there and that normal standards of justice and law might not
+apply. But if the Internet is an electr onic frontier then, by analogy,
+the special justice of the frontier goes beyond the normal notions of
+justice. Living on the frontier is different from ordinary life in many
+ways, not least of all because as the frontier may be disputed or even
+under attack. Special measures must be taken against those who attack
+that frontier. Normal forms of justice may not apply as one may be
+geographica lly far from the forces and institutions which could enforce
+law and justice. Ther efore the idea of "frontier justice" arises with
+the implication that just ice, perhaps, may be taken into the hands of
+those defending the frontier who may be far away physically, or here
+virtually, from the normal channels of law and order. It is not clear
+how far this metaphor can be extended, nor should it be used to excuse
+hacking activity which is illegal and harmful. Nevertheless some of the
+victims of cyberstalking, who see themselves very much in terms of
+living on the electronic frontier have had to take the question of
+justice into their own hands e.g. as in the Hitchcock case, where she
+describes enlist ing the help of a "volunteer cyberposse" in order to
+bring to book those who were stalking her (Mingo, 2000).
+John Perry Barlow, credited with coining the phrase "Electronic
+Frontier& quot; and co- founder of the Electronic Frontier Foundation,
+clearly revels in the parallels between the electronic frontier and the
+19th century American west "in its natural preference for social devices
+which emerge from it (sic) conditions rather than those which are
+imposed from outside." (Barlow, 1996; 27). Until the West was
+"civilized", he argues, there existed and unwritten code of the West
+which was fluid and emphasized ethics and under standings over largely
+unenforceable laws. Justice is seen as an emergent property of the
+electronic frontier. "Uncodified or adaptive 'law,' while as 'fast,
+loose, and out of control' as other emergent forms, is probably more
+likely to yield something like justice at this point. In fact, one can
+already see in development new practices to suit the conditions of
+virtual commerce. The life forms of information are evolving methods to
+protect their continued repr oduction." (ibid., 28)
+More generally, frontiers and frontier justice, including electronic
+varieties , resonate with Mary Douglas's (1966) classic anthropological
+work on boundaries and margins. Much of this work researches the
+distinction between sacred and profane and the pollution which occurs
+when the boundary between the two is transgressed. But a second aspect,
+here more relevant, relates to what happens in the very boundaries or
+margins themselves. We make boundaries or frontiers to create social
+order. In making social order we are not just condemning diso rder - we
+are recognizing that disorder is both dangerous and, at the same time,
+potent. (ibid., 94) For instance, someone who goes beyond the ordinary
+limits of society, and who comes back may possess a power not available
+to those who have remained in control of themselves and within the
+bounds of society.
+This suggests that those whose position in society is marginal enjoy an
+indefi nable status even though they may be doing nothing morally wrong.
+Douglas suggests that examples can be found in the unborn child or the
+perceived transition fro m childhood to adulthood in some societies. To
+be in a marginal condition is to be in a dangerous condition but it is
+also a source of power. So those at the frontier, on the margins, are
+dangerous and marginal as they are beyond social order, for the US
+pioneers some were literally "outlaws."
+People who hold specific offices in society have well-defined powers by
+dint of that office, but those in the margins may also hold power,
+albeit of an unc onscious and uncontrollable nature. Hence hackers, and
+those at the electronic frontier have power clearly not because of some
+well respected societal position, but rather because of the power and
+danger imbued in their marginality. The unstru ctured areas of society
+contain energy in the margins, albeit of a potentially danger ous kind.
+Frontiers are, of course, a special kind of boundary. A frontier is a
+boundary between the known and the unknown where the unknown is a
+dangerous place. But, at the same time, it is a seductive place.
+Kramer and Kramarae (1997) point to the way that anarchy and frontiers
+have often been linked historically, especially in US history. In the
+on-line world these are also linked as shown by hackers' rejection of
+authority, emphasis on freedom and delight in the "wilderness and
+excitement" (ibid., 232) of the Internet. Although Taylor (1999) does
+not elaborate, in detail, why the frontier spirit might serve to exclude
+women, Kramer and Kramarae poin t to more specific reasons. Although the
+US pioneers of the frontier were men and women, "…the prevailing story
+is that the frontier was conquered by strong white male heroes…The
+frontier is the promise of new beginnings . It is male, adventure,
+boldness, daring, restless energy, independence, rough, violence,
+strength, heroic exploits, and danger. It is not female, intimacy,
+caring, vulnerability, meaning in daily customs, or artistic." (ibid.,
+231) Kramer and Kramarae (ibid., 232-233) argue that, just as historians
+of the frontier represented women in stereotyped ways e.g. "Brave
+Pioneer Mothers" or "Calamity Janes" without acknowledging their multid
+imensional contributions in making new societies, so do the documents of
+the electronic frontier, the popular magazines or 'zines, in
+representing women as passive sexual stereotypes, deny and obscure
+present day women's roles in making the new electronic societies. We can
+see how the valorizing of the frontier spirit can serve to celebrate
+masculinity and underestimate or render invisible women 's contribution
+in accounts of hacking.
+However if we characterize this phenomenon more squarely in terms of the
+conce pt, "frontier masculinity," based on what has been said above on
+frontie rs and borders, we can begin to analyze the forces at work in
+shaping the culture of hacking in gender terms, without demonizing
+hackers. Despite the pervasiven ess of Wild West and frontier narratives
+in cyberspace and hacking texts, few auth ors apart from Kramer and
+Kramarae (1997) have chosen to explore this myth in gend er terms.
+Miller (1995) argues against the usefulness of the frontier metaphor:
+"Just as the ideal of chastity makes virginity sexually provocative, so
+does the unclaimed territory invite settlers, irresistibly so. Americans
+regar d the lost geographical frontier with a melancholy, voluptuous
+fatalism - we had no choice but to advance upon it and it had no
+alternative but to submit." ; (Miller, 1995; 51)
+Although we may resist the apparent inevitability of the frontier myth
+and the brand of masculinity that goes with it, Richard Slotkin (1998)
+argues for the pervasiveness of the frontier myth in the popular imagery
+of American life. This emphasizes a certain kind of hero, a rugged,
+hard-headed masculine, white hero who is engaged in a war against nature
+but is also engaged in a racial war, the war against those who must be
+civilized in Western terms.
+We can see this brand of frontier masculinity at work in popular
+accounts of hacking, where not only is the hacker's mastery over savage
+nature (the comput er and the program) celebrated but so too is the
+hacker's disdain for the prevail ing norms of society. It is as if
+societal norms are the culture of a world not civilized in hacker terms,
+and hackers are celebrated in overcoming these &quo t;uncivilized" norms
+which include such things as finishing college degrees, sleeping and wor
+king at normal times, paying appropriate attention to personal hygiene
+and appearan ce and not tampering with the hardware and software of
+computers etc. If we don an anthropological hat for a moment and regard
+hacker culture, in preaching the hacker ethic, as the hope of this new
+civilized world at the frontier, we can regard the old world as
+"uncivilized" in hacker terms. This requ ires us to suspend, or even
+stand on its head, our belief in how we usually regard the
+civilized/uncivilized spectrum. The business of making the "normal&qu
+ot; world seem strange can be a useful explanatory device. Those who
+subscribe to these "uncivilized" norms then become the "savages" in the
+hacker frontier world either ignored or waiting to be civilized.
+Unsurprisingl y many of these will be women as they subscribe to many of
+the rituals of the non-hacker world. They may be civilized or ignored
+but are inevitable cast as "other" in relation to the hacker world.
+Hence, we can see that the frontier myth with all its ramifications does
+not serve women well in the elec tronic world. The idea of the frontier
+resonates, in some fundamental way, with an heroic view of masculinity.
+Other than the marginal roles articulated by Krame r and Kramarae
+(1997), it is not clear how women could carve themselves a simila rly
+important role against the frontier metaphor. Indeed women may not just
+be mar ginalized, they may be almost invisible.
+The use of the frontier myth to make women invisible can be seen at work
+in Steven Levy's (1984) Hackers, the earliest substantial work on the
+hacker phen omenon. It is an eloquent description of the frontier
+masculinity of the early hacker world and has been immensely important
+in raising awareness of the history of hacking. Levy was one of the
+first commentators to question the paucity of wom en hackers. He notes,
+"Even the substantial cultural bias against women gett ing into serious
+computing does not explain the utter lack of female hackers." ; (ibid.,
+84) Yet, apparently without irony, this quote is juxtaposed with the
+observation that "hackers talked strangely, they had bizarre hours, they
+ate weird food, and they spent all their time thinking about computers"
+(ibid.) and a long, and unfortunately detailed, description of one
+hacker's personal hygiene problems! More importantly, even taking into
+account women's actual physical presence in hacking activities, Levy is
+unaware of the way in which his text renders women invisible. The Who's
+Who at the beginning of the book includes three women, fifty two men and
+ten computers. Some of the comput es are described in terms of their
+relationship to men (e.g. Apple II and Steve Wozniak) but all of the
+women are someone's wives. Hence women, if they do app ear, are defined
+in terms of their relationship to men, even when they have expert
+hacking credentials. Women are, therefore, largely invisible.
+A description of an episode involving a woman and programming
+demonstrates how women are cast as "other." Despite the fact that this
+woman, Margare t Hamilton, was an expert programmer, she went on to
+manage the computers on boa rd the space craft of the Apollo moonshot,
+she is designated by the pejorative term, "Officially Sanctioned User"
+(ibid., 96-97). At MIT, she used the official assembly level language
+supplied on the DEC machine, not the hack er-written language which had
+been developed by the MIT hacking group. So, when the hacke rs of the
+"Midnight Computer Wiring Society" altered the hardware of the DEC
+machine one night to run their own programs, hers failed to work the
+next day. Naturally she complained and hardware alterations were
+officially banned, although in practice, eventually tolerated. The
+episode was designated the "Great Margaret Hamilton Program Clobber."
+(ibid., 97) Note how the hacker frontier spirit differs from Margaret
+Hamilton's world. Although she clearly has programming expertise, and
+therefore could be expected to achi eve some measure of respect, she is
+an official user, thereby belonging to the &qu ot;savage" official world
+which is the antithesis of hacking. She uses the despised offic ial
+programming language. She keeps daytime hours, rather than joining the
+nocturn al world of the hackers. Her complaint and the subsequent
+banning of nocturnal hardware alterations, although initially upheld,
+gradually reverts to the stat us quo. The hackers are described as
+"playful" and the incident is cast as a prank.
+
+THE HUNT FOR THE WOMAN HACKER
+
+
+Rather than purely pondering reasons for their absence, som e
+commentators have deliberately sought out women hackers. Paul Edwards
+(2003) describes how he initially followed Levy (1984), Weizenbaum
+(1976) and Turkle (1984) in assuming that hacking was an almost
+exclusively masculine activity. He argues that the stereotypical
+masculinity of hacking is beginning to break down with a sizeable female
+minority in many hacker communities. This is accom panied by portrayals
+of women hackers in cyberpunk science fiction and as film charac ters.
+Partly in the spirit of recovering women's history, which is attempted
+in othe r disciplines, such as art and literature (Rowbotham, 1973),
+Edwards (2003; 12) sent out an enquiry looking for women hackers on a
+number of Internet mailing lists and was surprised to get nearly a
+hundred responses within a few days. He had not defined the term in his
+initial email, the respondents had identifi ed themselves as women
+hackers. Interestingly Edwards also asked a number of seni or male
+computer scientists for names of women hackers in the 1960s and half a
+dozen names were immediately forthcoming. In many ways these results
+seem surp rising and Edwards, himself, struggles to explain them. It
+could be an example of the "hidden from history" phenomenon (Rowbotham,
+1973) where women have always been present in some arena e.g. art,
+literature or science, but where their activities have been suppressed,
+ignored or attributed to men within the patriarchal structures of public
+life and where the feminist historian's job is to reclaim women's
+history. However we also need to consider how we would verify a
+subject's claims to be a woman hacker if contact is only made through email.
+Edwards (2003) hints that the changing material environment of hacking
+may hav e made a difference to the presence or absence of women hackers.
+Early batch pro cessing on large mainframes required presence late at
+night in the computer center, "the graveyard shift", as resources were
+scarce. This encouraged muc h face-to-face interaction at strange times
+of day, and of necessity in the comp uter center, and may have
+reinforced the tiny communities of hackers as male preser ves. However
+as computing moved into time-sharing and then into fully networked mod e
+these physical factors, which may have previously deterred women, were
+no long er present. However we need to be wary of assuming that the move
+to the virtual necessarily opens up hitherto masculine domains to women
+as several authors argue that stereotypical male-female interactions can
+be magnified on the Inte rnet (Brail, 1996: Herring, 1996). This ties in
+with the discussion on egalitarian communities later in the paper.
+Changes in material conditions may facilitate social changes on some
+level but they are not enough to cause changing social relations.
+Cornelia Sollfrank (1999) sees her search for women hackers as a
+"mission to locate subversive women on the net." In looking for women
+hackers she attended several hacker conferences; although there were
+women there they did not identify themselves as hackers. She found it
+almost impossible to find any at all. Her respondents from law
+enforcement officials to cyberpunk authors all cited differences in
+masculine and feminine psychology to explain the lack of women hackers.
+During this period of research, the only female hacker she came across
+was Susan Thunders who took up prostitution to fuel her need to buy
+high-tech equipment for hacking, became a security adviser and then
+embark ed on a career as a professional poker player. As Sollfrank
+notes: "Sex, cri me and technology all came together in the person of
+Susan Thunders." Nevert heless as she further points out, "constructing
+the image of a women hacker who is actually a whore fits perfectly into
+the convention of discrediting hackers by referring to their
+psychological deficiencies and immorality, and by imputi ng criminal
+reasons to what they are doing." In her first paper, Sollfrank's (1999)
+conclusion is clearly at odds with that of Edwards as she argues that,
+of all technical spheres, hacking contains fewest women. Sollfrank
+(ibid.) hin ts at the potential for women to become engaged in
+politically engaged work throu gh hacking, the kind of work which women
+often prefer to engage in on a non-techn ological level. In later papers
+(2000, 2002) Sollfrank has made contact with women hack ers, persuaded
+them to give a workshop on "How to Become a Hacker" at a conference and
+has consciously made a link between politically inspired cyberf eminism
+and women hackers. In particular, Clara G. Sopht is an expert in "Denial
+of Service" attacks, where networks can be brought down by flooding them
+with more traffic than they can handle. This sort of activity has been
+termed "hacktivism" or "electronic civil disobedience." The idea that
+large corporations or even governments (e.g. as in the case of the
+Mexica n government and the Zapatistas) could be disrupted by such means
+currently exci tes much interest on the Internet. However the notion
+that women could have a spec ial role to play in this has barely been
+considered hence Sollfrank's (2002) plea for tactics to "…undermine the
+fact, that the hacking culture is a purely white male phenomenon, and to
+populate this environment with loads of dangerous and idealistic women
+hackers…"
+
+A FEMALE HACKER ETHIC
+Are Hacker Communities Egalitarian?
+
+
+The above discussion paints a complex and ambivalent pictur e with
+regard to women's involvement in hacking. Clearly the area is still
+under -researched, particularly with regard to the political dimension
+and especially areas such as hacktivism. Nevertheless enough evidence
+exists to challenge the notion tha t hacker communities are largely
+meritocracies where race, gender etc, are unimp ortant. Indeed we might
+question how such a rhetoric of equality arose in the first place. Part
+of the answer may lie in the way that hackers cast themselves as a new,
+alternative political movement challenging the existing order with all
+its baggage of racism, sexism and repression. However just because a
+political movement challenges a non-egalitarian orthodoxy, this does not
+mean that it is free from the instruments of oppression itself. And this
+would be especiall y problematic for hackers, where they are so loosely
+organized along the politic al dimension. The related notion that
+democracy is a spontaneous property of new Internet communities has been
+criticized by many authors (Adam, 2002b; Ess 199 6; Rheingold 1997,
+Winner, 1997). Similarly we should note that it has been claim ed that
+new occupational groups escape sexist attitudes because they are not
+entr enched in old traditions. Indeed this claim has been made in regard
+to computing and information systems (Igbaria and Chidambaram, 1997)
+but, again has been subjec t to challenge (Adam, Howcroft and
+Richardson, 2001). The point here is that equ ality and democracy are
+not spontaneously emergent properties of new communities whe ther they
+be political and occupational groups and it would seem to be more
+effecti ve if we stopped expecting them to be so.
+
+The Equal Opportunities Ethic
+
+
+Levy (1984; 43) details a central tenet of the hacker ethic . "Hackers
+should be judged by their hacking, not bogus criteria such as degrees,
+age, race, or position." Interestingly the categories "gend er" and
+"able bodiedness" are absent though it would be reasonable to conclude
+that "such as" could include these categories. "This meritocratic trait
+was not necessarily rooted in the inherent goodness of hack er hearts -
+it was mainly that hackers cared less about someone's superficial cha
+racteristics than they did about his (sic) potential to advance the
+general state of hackin g" Levy (ibid.) cites the example of a twelve
+year-old boy being accepted into hacker circles, though we might note
+that such an individual is only just outs ide the college aged white,
+male category that made up the bulk of Levy's hackers. Indeed just by
+growing a little older this boy would inevitably fit the standa rd
+hacker characteristics in ways in which a middle-aged black woman could
+never do! This is a typical liberal expression of equality, rather in
+the vein of the employment adverts which claim equal opportunities
+regardless of ethnicity , disability, gender, religion etc. A statement
+of equality is seen to be enough to achieve it. This view also tends to
+dismiss as superficial (here the term used is even stronger "bogus"),
+characteristics of people, character istics which are far from
+superficial but are deeply felt, often regarded as positive , aspects of
+their identities, and which should be respected rather than diminis hed
+or dismissed. Under this "differences as bogus" view, equal opportun
+ities are then passive instruments, difference and diversity are not
+identified, and one need do nothing to achieve equality except state a
+belief in it.
+More recent views of equal opportunities which are becoming encoded in
+legisla tion in Western counties place a much more active role upon the
+shoulders of actant s, For instance note how a college would now be seen
+as defaulting if it claimed to offer equal opportunity to disabled
+students yet its library was a two floo r building without elevators and
+its lecture theaters contained many steep steps . In addition to
+ignoring differences in identity, ignoring the material conditi ons of
+difference also makes it much easier to claim equality. For instance
+factor s such as some women's inability to work in computer centers late
+at night becau se of childcare, persons from ethnic minorities
+reluctance to work at night for fear of attacks on dimly lit campuses in
+seedy areas perhaps where there are undercurrents of racial tension,
+disabled hackers inability to use public tran sport or access buildings
+without ramps or elevators- all these can be set to one side. It could
+be argued that some of the material factors I adduce here could have
+been problematic for early hacking in the 1960s and 1970s, when the
+hacke r ethic was formulated, but are less of an issue in contemporary
+networked times . Edwards (2003) hints at the idea of hacking becoming
+more available to women when they no longer had to be present late at
+night in computer centers. Howev er, as I argue above, making things
+materially less difficult does not necessarily change the prevailing
+culture and is not an active measure to draw in women. This has been a
+prevailing theme in feminist ethics (Tong, 1993). It also hark s back to
+the idea, described in the previous section, that Internet communities
+spontaneously become democratic, a myth effectively dispelled by Langdon
+Winne r (1997) in his critique of virtual communities.
+
+The Freedom of Information Ethic
+"All information should be free." (Levy, 1984; 40)
+
+Freedom of information has been a central plank of the hacker ethic
+since hacker communities began to form in the 1960s. This mirrors the
+wider emphasis on freedom of speech prevalent in most Western
+democracies, par ticularly so in the USA where it is constitutionally
+enshrined in the First Amendment. It is immediately clear how this ethic
+could be at loggerheads with feminist concerns when we consider the
+debates over pornography and censorship, particu larly in North America,
+and mainly in the off-line world, though now extending to consider
+pornography in cyberspace (Adam, 2002a). In feminist legal research, and
+feminist thinking in general, there has been a long running debate over
+pornography, crystallizing round deeply felt beliefs over freedom of
+speech versus censorship. On the one hand Nadine Strossen and ACLU
+defend freedom of expression, seemingly at all costs. On the other,
+Catharine MacKinnon and Andr ea Dworkin lead the "anti-pornography"
+feminist position (Lane, 2001). Additionally there is a widespread tacit
+acknowledgement that pornography is the driver of much of the
+development of Internet technologies, although due to its underground
+nature this is difficult to quantify. The debates are compl ex, far from
+conclusive and a detailed discussion of the many details is outwith the
+scope of this paper.
+However, for present purposes, the salient features of the debate relate
+to the freedom of information ethic and how it relates to freedom of
+speech/censo rship debates in hacker terms. There is little doubt that
+organizations such as the Electronic Frontier Foundation and prominent
+exponents of the hacker ethic and freedom in cyberspace have a political
+influence. Additionally there are speci fic instances of hacker
+involvement in legislative processes, which do have implic ations for
+the freedom of speech/censorship debates particularly insofar as they
+rela te to feminist concerns over pornography. Hackers have been
+involved in political action to effect in relation to Internet
+legislation. As Raymond (2001; 17) notes:
+"The mainstreaming of the Internet even brought the hacker culture the
+beginnings of respectability and political clout. In 1994 and 1995
+hacker acti vism scuppered the Clipper proposal which would have put
+strong encryption under government control. In 1996 hacker mobilized a
+broad coalition to defeat the misnamed '"Communications Decency Act'
+(CDA) and prevent censorship of the Internet."
+In fact the "broad coalition" designating themselves the Citizens
+Internet Empowerment Coalition (CIEC, 1997) consisted of various
+Internet serv ice providers, broadcast and media associations, civil
+liberties groups and over 56,000 individual Internet users. Although
+designed to protect minors from ind ecent and offensive material on the
+Internet, the successful challenge was made on the grounds that the CDA
+failed to understand the unique nature of the Interne t and that it was
+so broad as to violate the freedom of speech protections of the First
+Amendment. We should also note the subsequent dismissal of the Child
+Pornography Prevention Act (Levy, 2002) which means that virtual
+pictures of children are not illegal in the USA.
+This implies that there is now an urgent need to move the feminist
+debate on pornography and censorship from the off-line world, where much
+has been said and written, to the on-line world where there has, so far,
+been little debate. However there is some evidence that a female hacker
+ethic may differ from the male hacker ethic in respect of aspects of
+freedom of speech and pornography. Sollfrank (2002) calls for a
+consciously political cyberfeminism for women hac kers. Interestingly
+some prominent women hackers have explicitly sought to crusade against
+Internet pornography so it is here where we may find the seeds of an
+alternative female hacker ethic. For instance, Natasha Grigori started
+out in the 1990s running a bulletin board for software pirates, but has
+now founded and runs antichildporn.org where hackers skills are used to
+track down child pornography and pass the information to law enforcement
+authorities (Segan 200 0a). Similarly a women hacker handled,
+"Blueberry" set up another anti-ch ild pornography organization,
+condemned.org (ibid.). Jude Milhon, a hacker who ini tiated the
+alternative magazine, Mondo 2000, argues that women hackers are more
+likel y to be involved in hacktivism with a political or ethical end
+that in other are as of illegal hacking (Segan, 2000b). Hence there is
+some, albeit still slender, evidence of the emergence of a different
+ethic amongst female hackers, one whe re political activism is to the
+fore and where explicit stances and action are taken on topics such as
+child pornography rather than holding to an ideal of freedom of speech
+at all cost. Needless to say the evidence for this is still tenuous and
+more research is needed.
+
+The Work Ethic
+
+
+Levy's (1984) work on early hackers does not explicitly des cribe the
+hacker ethic as a work ethic. Nevertheless from the importance of the
+adop tion of very particular working habits, there is a clearly implied
+hacker work ethi c. This theme has been explored in more detail by Pekka
+Himanen (2001). Himanen argues that the hacker ethic is a new work ethic
+that challenges the Protestan t work ethic of Max Weber's (1904-5)
+classic text, The Protestant Ethic and the Spirit of Capitalism, which
+has dominated Western capitalist societies for so long. Here the hacker
+ethic is a passionate, joyful, playful approach to work where making
+money is not the driving force and where access and freedom of
+expression are explicitly enshrined in the ethic. This contrasts with
+the Prot estant work ethic's emphasis on work as moral and originally
+religious duty, where play and leisure are clearly contrasted with work.
+Hackers' relationship to time is important and different to the "time is
+money" ethic of capi talism which has intensified and speeded up in the
+new information society (Castells, 1996). Even leisure becomes work as
+we "work out" in the gym and mar shal our home lives in tight schedules,
+as if the whole of our lives have become Taylorized. As Himanen (ibid.,
+29) notes, no longer can we just hang out with our children, we are
+obliged to spend quality time with them! The use of new technology can
+blur the boundaries of work and leisure, not always to our adva ntage.
+But Himanen argues that the hacker ethic advocates organizing for
+playfulness, a freedom to self-organize time and resists work-time
+supervision. Some hacker s make money through traditional capitalist
+routes and then, having achieved fin ancial independence, are free to
+pursue their hacker passions.
+The hacker work ethic paints an ideal of freedom from financial worry
+and the ability to organize one's own work which few, whether men or
+women, can hope to achieve even in affluent Western democracies.
+However, from the point of view of the present paper we need to question
+whether there is a gender dimens ion, both in terms of desirability and
+feasibility, lurking within the hacker work ethic. Studies of women,
+work and leisure (Green et al, 1990) suggest that wom en's access to
+leisure is different from that of men's; they have less of it. So far it
+seems that patterns of leisure use of information and communications
+technologies and the Internet reproduce standard gendered patterns of
+leisure time availability rather than breaking them down (Adam and
+Green, 1998). In addition, many women work a "double shift" i.e. they
+have primary responsibility for home and child care as well as their
+paid employment. Comme ntators on the economy of the household can be
+surprisingly blind to the contribution that women make by their largely
+invisible labor of looking after homes, bodie s and children (Cudd,
+2001, 92-94). Those whose life revolves around the compute r may not
+notice the real life bodily care that goes into keeping them fed, clea n
+and organized for their virtual lives within the machine (Helmreich,
+1994). We might feel that the accelerated version of the Protestant work
+ethic is pro blematic for men and for women. Yet, at the same time, the
+hacker work ethic is unachie vable for many men and women in Western
+democracies whose material conditions will not permit the freedoms to
+which hackers aspire. But on top of this the hacker work ethic seems
+especially problematic for women as women's time is often so
+circumscribed. The hacker work ethic is no means of acknowledging this
+and the special position of women's bodily labor in maintaining the
+machinery of every day life. This suggests that there is another
+dimension where an alternative female version of the hacker ethic, yet
+to be formulated, but which is now ima ginable.
+
+CONCLUSION
+
+
+In this paper I have sought to explore the phenomenon of the woman
+hacker along a number of dimensions. This includes the search for women
+hackers and why their presence or absence should be of concern. The expl
+anations which have been generated to explain women's relative absence
+from hacking are seen as more of interest than the actual number of
+women involved and I have argued that the concept of "frontier
+masculinity" is worthy of more attention. One of Levy's (1984) anecdotes
+about a woman programmer is reread against the frontier metaphor. The
+few published sources that exist do not yet give us a clear picture of
+how many women hackers there are and the spectrum of their activities.
+Turning more explicitly to the tenets of hacker ethics I have sought to
+analyz e these in terms of the egalitarian claim for hacker communities,
+the equal oppo rtunities ethic, the freedom of information ethic and the
+work ethic. The discussion abo ve suggests that all of these have a
+gender dimension which can, in some circumst ances, be problematic for
+women in particular. Importantly the supposed egalitarian nature of
+hacker communities and their claim to be meritocracies which ignore
+"bogus" criteria such as age or race tend to repeat the old liberal
+arguments for equality which feminists and others have discredited as
+passive instruments which maintain the status quo in their denial of
+difference. Simil arly there seems to be little hope that the hacker
+work ethic has much to offer man y men and women, but particularly women
+whose work and leisure time is so constr ained. Within the freedom of
+information ethic we need a more thoroughgoing explorati on of how
+feminist debates on censorship vs. freedom of speech translate into the
+on-line world. But at least here we see some signs of an emerging women
+hacker s' ethic where hacking skills can be put to use for more
+conscious political ends in hacktivism and anti-child pornography
+websites and enforcement. In tracking down women hackers we must attend
+to the latter point especially as there is hope of sowing the seeds of a
+more inclusive and politically rounded hacker ethic.
+
+REFERENCES
+
+
+Adam, A. (1998) Artificial knowing: Gender and the thinking machine.
+Routledge, London and New York.
+Adam, A. (2001a) Gender and computer ethics, in Readings in CyberEthics
+(eds. R. Spinello and H. Tavani), Jones and Bartlett, Sudbury MA, 63-76.
+Adam, A. (2001b) Computer ethics in a different voice. Information and
+Organiz ation, 11, 235-62.
+Adam, A. (2002a) Cyberstalking and Internet pornography: Gender and the
+gaze. Ethics and Information Technology, 4 (2), 133-42.
+Adam, A. (2002b) Democracy, Gender and Technology: Historical
+Connections, in Proceedings of 3rd International Conference on Cultural
+Attitudes Towards Tech nology and Communication( CATaC) (eds. F.
+Sudweeks and C. Ess) , Montreal, 143-51.
+Adam, A. and Green, E. (1998) On-line leisure: Gender and ICTs in the
+home. Information, Communication and Society, 1 (3), 291-312.
+Adam, A., Howcroft, D. and Richardson, H. (2001) Absent Friends? The
+Gender Dimension in IS Research." in Realigning Research and Practice in
+Informa tion Systems Development: The Social and Organizational
+Perspective ( eds N.L. Russ o, B. Fitzgerald and J. I. DeGross), Kluwer,
+Norwell MA and Dordrecht, 333-352.*Barlow, J.P.(1996) Selling Wine
+Without Bottles: The Economy of Mind on the Global Net in High Noon on
+the Electronic Frontier: Conceptual Issues in Cyber space (ed. P.
+Ludlow), MIT Press, Cambridge MA and London, 9-34.
+Brail, S. (1996) The price of admission: Harassment and free speech in
+the wil d, wild west, in wired_women: Gender and new realities in
+cyberspace (eds. L .Che rny, L. and E. Wise ), Seal Press, Seattle, WA,
+141-57.
+Castells, M. (1997) The information age: economy, society and culture.
+Vol. 1 The rise of the network society. Blackwell, Malden MA.
+CIEC (1997) The Internet is not a Television, available at
+http://www.ciec.org , 20th January, 2003.
+Cudd, A. (2001) Objectivity and Ethno-Feminist Critiques of Science in
+After the Science Wars (eds .K. Ashman and P. Baringer), Routledge, 80-97.
+Douglas, M. (1966) Purity and danger: an analysis of the concepts of
+pollution and taboo, London and New York, Ark.
+Edwards, P. (2003) Nerd Worlds: Computer hackers, unofficial culture and
+mascu line identities, unpublished paper, Program in Science, Technology
+and Society, Sta nford University, Stanford, CA
+Ess, C. 1996, The political computer: Democracy, CMC, and Habermas, in
+Philoso phical Perspectives on Computer-Mediated Communication ( ed. C.
+Ess ), State Universi ty of New York Press, Albany, N.Y,197-230.
+Green, E., Hebron, S. and Woodward, D. (1990) Women's leisure, what
+leisure? Basingstoke, Macmillan Education.
+Helmreich, S. (1994) Anthropology inside and outside the looking-glass
+worlds of artificial life, unpublished paper, Department of
+Anthropology, Stanford University, Stanford, CA.
+Henwood, Flis (1993) Gender perspectives on information technology:
+problems, issues and opportunities, in Gendered by Design? Information
+Technology and Office Systems (eds. Green, E. Owen J. and Pain, D.),
+Taylor and Francis, Lond on, 31-49.
+Herring, S. (1996) Posting in a different voice: gender and ethics in
+CMC, in Philosophical Perspectives on Computer-Mediated Communication
+(ed. C. Ess) , State University of New York Press, Albany, N.Y., 115-45.
+Himanen, P. (2001)The hacker ethic and the spirit of the information
+age. Seck er & Warburg, London.
+Igbaria, M. and Chidambaram, M. (1997) The impact of gender on career
+success of information systems professionals. Information Technology and
+People, 10 (1), 63-86.
+Kember, S. (2003) Cyberfeminism and artificial life. Routledge, London
+an New York.
+Kramer, J. & Kramarae, C. (1997). Gendered ethics on the Internet, in
+Comm unication ethics in an age of diversity (eds. J. Makau and R.
+Arnett), University of Ill inois Press, Urbana, IL and Chicago, IL, 226-43.
+Lancaster, A.-M. (2003) Acknowledging the significance of gender,
+available at
+http://www.southernct.edu/organizations/rcss/resources/adap_tech/equity_acc
+ess/lancaster/intro.html, 20th January, 2003.
+Lane, F. (2000) Obscene profits: the Entrepreneurs of pornography in the
+cyber age, Routledge, New York and London.
+Levy, S. (1984) Hackers. heroes of the computer revolution. Penguin,
+Harmondsw orth UK.
+Levy, N. (2002) Virtual child pornography: the eroticization of
+inequality, Ethics and Information Technology, 4 (4), 319-323.
+Ludlow, P. (ed.) (1996). High noon on the electronic frontier:
+Conceptual issu es in cyberspace MIT Press, Cambridge MA and London.
+Miller L. (1995) Women and children first: Gender and the settling of
+the elec tronic frontier, in Resisting the Virtual Life: The Culture and
+Politics of Informati on (eds. J. Brooks and I. Boal), City Lights, San
+Francisco, 49-57.
+Mingo, J. (2000) Caught in the net: an online posse tracks down an
+Internet stalker, available at
+http://www.houston-press.com/extra/cyberstalk.html (24 March 2000).
+Raymond, E. (2001) The cathedral and the bazaar: Musings on Linux and
+open sou rce by an accidental revolutionary. O'Reilly, Sebastopol, CA.
+Rheingold, H.: 1993, The Virtual Community: Homesteading on the Virtual
+Fronti er, Addison-Wesley, Reading, MA.
+Rowbotham, S. (1973) Hidden from history; 300 years of women's
+oppression and the fight against it. Pluto, London.
+Segan, S. (2000a) Female of the species; hacker women are few but
+strong, onli ne available at
+http://more.abcnews.go.com/sections/tech/dailynews/hackerwomen000
+602.html, 20th January, 2003.
+Segan, S. (2000b) Facing a Man's World: Female hackers battle sexism to
+get ahead, online available at
+http://more.abcnews.go.com/sections/tech/dailynews/ hackerwomen000609
+20th January, 2003
+Slotkin, R. (1998) Gunfighter nation: the myth of the frontier in
+twentieth-ce ntury America. University of Oklahoma Press, Norman, OK.
+Sollfrank, C. (1999) Women hackers - a report form the mission to locate
+subve rsive women on the net, online available at
+http://www.obn.org/hackers/text, 20th January, 2003.
+Sollfrank, C. (2000) Unauthorized access: have code, will destroy!
+Artbyte the magazine of digital arts & culture. online available at
+http://www.artbyte .com/mag/Jul_aug_00/femalehackers_content.shtml
+Sollfrank, C. (2002) Not every hacker is a woman, in Technics of
+Cyberfeminism (eds. C. Reiche and A. Sick) online available
+Sterling, B. (1992) The hacker crackdown: Law and disorder on the
+electronic frontier. Viking, London.
+Taylor, P. (1999) Hackers: Crime in the digital sublime. Routledge,
+London and New York.
+Tong, R. (1999). Feminist ethics, in The Stanford Encyclopedia of
+Philosophy (Fall 1999 Edition) (ed. E. Zalta), available at
+http://plato.stanford.edu/arc hives/fall1999/entries/feminism-ethics/ ,
+24th November, 1999.
+Turkle, S. (1984)The second self: Computers and the human spirit. Simon
+& Schuster, New York.
+Weber, M. (1904-1905) The Protestant ethic and the spirit of capitalism.
+Routl edge, London (trans. 1930, reprinted 1992).
+Webster, J. (1996) Shaping women's work: Gender, employment and
+information technology. Longmans, London.
+Weizenbaum, J. (1976) Computer power and human reason: From judgement to
+calcu lation. W.H. Freeman, San Francisco.
+Winner, L.(1997) Cyberlibertarian myths and the prospect for community,
+ACM Computers and Society, 27 (3), 14-19.*

@@ -36,7 +36,7 @@ Vi hoppas på en blandning av deltagare med olika bakgrund; hackers,
 makers, aktivister, filosofer, diy-entisaster, programmerare, gamers
 och andra.
 
-Välkommen!
+**Välkommen!**
 
 Träff 0 - 2015-02-18, 21:00 - 22:00 - `Intro och uppstart <pages/studygroup-0.html>`_
 
