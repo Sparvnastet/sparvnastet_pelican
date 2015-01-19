@@ -269,9 +269,6 @@ från debatten i samhället runt omkring?
 | "Gender and Ethnicity; A Portrait of J. Random Hacker" - Jargon file
 | http://www.catb.org/jargon/html/demographics.html
 |
-| Hacker Factory - Gender Guesser
-| http://www.hackerfactor.com/GenderGuesser.php
-|
 | Hack Code of Conduct examples:
 | http://hackcodeofconduct.org/
 | http://www.arthackday.net/code_of_conduct
