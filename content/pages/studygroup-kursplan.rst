@@ -200,7 +200,9 @@ identitetsskapande cermonier, auktoriteter, attribut, språk, mm.
 | http://www.cypherpunks.to/faq/cyphernomicron/chapter3.html#4
 |
 
-**Träff 4 - Hackerkultur - vem är välkommen?** - *2015-04-15 - 21:00 - 22:00*
+Träff 4 - Hackerkultur - vem är välkommen?
+------------------------------------------
+**2015-04-15 - 21:00 - 22:00**
 
 Om en bortser från den hackeridentitet, som studeras i förra träffen,
 och interna splitringar i den, finns ett antal konfliktlinjer kvar i
@@ -210,6 +212,69 @@ kategorier som finns i sammhället runt omkring; kön, ras, klass, etc.
 I den här träffen undersöker vi hur debatten ser ut i
 hackergemenskapen; finns den alls, var förs den och skiljer den sig
 från debatten i samhället runt omkring?
+
+**Studiefrågor:**
+
+| > Vilka mekanismer ligger bakom att grupper stängs ute?
+| > Vilka initiativ finns för att överbrygga kategorier?
+| > Separatism - bra & dåligt?
+| > Skillnader mellan feminism i hackervärlden & utanför?
+|
+
+**Studiematerial:**
+
+| "Dear Hacker Community – We Need To Talk" - Asher Wolf
+| http://web.archive.org/web/20130904192251/http://asherwolf.net/dear-hacker-community-we-need-to-talk/101/
+|
+| "Online Harassment: Hacker Culture" - Ayesha aka aSh
+| http://www.danceofred.com/2012/12/online-harassment-hacker-culture.html
+|
+| "It’s Not an Asshole Problem—It’s a Bystander Problem" - Cate Huston
+| http://www.catehuston.com/blog/2014/12/31/sigh/
+| http://www.maleallies.com/
+|
+| "It’s Not “Too Late” for Female Hackers" - Katie Siegel
+| http://soshitech.com/2013/12/29/its-not-too-late-for-female-hackers/
+|
+| "31c3: inclusivity, bias and awareness" - Zara
+| http://zararah.net/blog/2015/01/04/31c3-inclusivity-bias/
+|
+| "'We Are the Future Cunt': CyberFeminism in the 90s" - Claire L. Evans
+| http://motherboard.vice.com/read/we-are-the-future-cunt-cyberfeminism-in-the-90s
+|
+| (First) Cyberfeminist international (1997):
+| > Browse the topics and stuff you find interesting.
+| http://www.obn.org/kassel/
+|
+| "Women Hackers--a report from the mission to locate subversive women on the net"
+| - Cornelia Sollfrank, Rotterdam, 1999
+| http://www.obn.org/hackers/text1.htm
+|
+| Women-friendly events
+| http://geekfeminism.wikia.com/wiki/Women-friendly_events
+|
+| "Gender and Ethnicity; A Portrait of J. Random Hacker" - Jargon file
+| http://www.catb.org/jargon/html/demographics.html
+|
+| Hacker Factory - Gender Guesser
+| http://www.hackerfactor.com/GenderGuesser.php
+|
+| Hack Code of Conduct examples:
+| http://hackcodeofconduct.org/
+| http://www.arthackday.net/code_of_conduct
+| http://opensourcebridge.org/about/code-of-conduct/
+|
+| "Liberating Ourselves Locally"
+| a people-of-color-led, gender-diverse, queer and trans inclusive hacker/maker space in East Oakland
+| https://oaklandmakerspace.wordpress.com/about/
+| https://www.indiegogo.com/projects/people-of-color-led-makerspace-and-hackerspace
+|
+| Double Union is a hacker/maker space for women in San Francisco.
+| https://www.doubleunion.org/
+|
+| "Hacking into Hacking: Gender and the Hacker Phenomenon" -  A. E. Adam
+| `hackingintohacking.txt </files/hackingintohacking.txt>`_
+|
 
 **Träff 5 - Hackers och aktivister** - *2015-04-29 - 21:00 - 22:00*
 
