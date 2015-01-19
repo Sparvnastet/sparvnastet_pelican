@@ -5,8 +5,8 @@
 :slug: studygroup-0
 :authors: Sparven
 :summary: Träff 0 - Intro och uppstart - med den tekno-politiska studiegruppen.
-:status: draft
-		   
+:status: hidden
+             
 [Information in English further down]
 
 Första träffen med studiegruppen: **2015-02-18 (ons) 21:00 - 22:00**
