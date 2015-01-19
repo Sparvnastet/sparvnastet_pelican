@@ -132,13 +132,73 @@ ledtrådar.
 | http://p2pfoundation.net/Commons_Transition_Plan
 | 
 
-**Träff 3 - Hackerkultur - identitet** - *2015-04-01 - 21:00 - 22:00*
+Träff 3 - Hackerkultur - identitet
+----------------------------------
+**2015-04-01 - 21:00 - 22:00**
 
 Finns en hackerkultur eller en hackeridentitet? Hur är den i så fall beskaffad?
 
 Vi går till källor som anses centrala för hackerkulturen och funderar
 på hur (och vilka) som format kulturen. Vi försöker hitta exempel på
 identitetsskapande cermonier, auktoriteter, attribut, språk, mm.
+
+**Studiefrågor:**
+
+| > Finns överhuvudtaget *en* hackerkultur eller rör det sig om en mångfald?
+| > Finns det skillnader mellan makers, uppfinnare, nördar, diy och hackers?
+| > Hur har hackerkultur formats? Vilka har haft inflytande i processen? Har den varit medveten?
+| > Finns några politiska och etiska riktningar förknippade med hackerkultur?
+| > Konflikter med konsumtionssamhället, drm, proprietär mjukvara, "tamper proof" mekanismer?
+| > "true hackers" vs "real hackers"?
+|
+
+**Studiematerial:**
+
+| "Is it a Hackerspace, Makerspace, TechShop, or FabLab?" - Gui Cavalcanti
+| http://makezine.com/2013/05/22/the-difference-between-hackerspaces-makerspaces-techshops-and-fablabs/
+|
+| Wikipedia: "Hacker (programmer subculture)"
+| http://en.wikipedia.org/wiki/Hacker_%28programmer_subculture%29
+| Kolla även av vilka och hur sidan ändrats:
+| http://en.wikipedia.org/w/index.php?title=Hacker_%28programmer_subculture%29&action=history
+|
+| Wikipedia: "Hacker ethic"
+| http://en.wikipedia.org/wiki/Hacker_ethic
+|
+| Wikipedia: "Hackers: Heroes of the Computer Revolution"
+| http://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution
+|
+| The Conscience of a Hacker
+| http://www.phrack.org/archives/issues/7/3.txt
+|
+| "What is a Hacker?" - Brian Harvey
+| http://www.cs.berkeley.edu/~bh/hacker.html
+|
+| Jargon file: "Hacker Slang and Hacker Culture"
+| http://www.catb.org/jargon/html/introduction.html
+|
+| "ULTURAL STRATIGRAPHY: A RIFT BETWEEN SHARED MACHINE SHOPS" - maxigas
+|   https://noisysquare.com/cultural-stratigraphy-a-rift-between-shared-machine-shops/
+|
+| "Production and governance in hackerspaces:
+| A manifestation of Commons-based peer production in the physical realm?"
+| - Vasilis Kostakis, Vasilis Niaros and Christos Giotitsas
+| http://p2plab.gr/el/wp-content/uploads/2014/02/IJCS.pdf
+|
+| "Hacklabs and hackerspaces – tracing two genealogies" - Maxigas
+| http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/
+|
+| "A Hackerspace primer: Hackers, Makers, and Teachers (Part 2 – identities)"
+| -Andrew Richard Schrock
+| https://andrewrschrock.wordpress.com/tag/hackerspaces/
+|
+| Labitat - Guidelines
+| https://labitat.dk/wiki/Guidelines
+|
+| "THE CYPHERNOMICON: Cypherpunks FAQ" (1994) - Timothy C. May
+| Section: "Cypherpunks -- History, Organization, Agenda"
+| http://www.cypherpunks.to/faq/cyphernomicron/chapter3.html#4
+|
 
 **Träff 4 - Hackerkultur - vem är välkommen?** - *2015-04-15 - 21:00 - 22:00*
 
