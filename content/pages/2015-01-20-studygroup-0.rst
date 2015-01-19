@@ -6,8 +6,8 @@
 :authors: Sparven
 :summary: Träff 0 - Intro och uppstart - med den tekno-politiska studiegruppen.
 :status: hidden
-             
-[Information in English further down]
+
+*[Information in English further down]*
 
 Första träffen med studiegruppen: **2015-02-18 (ons) 21:00 - 22:00**
 
@@ -27,7 +27,7 @@ http://webchat.freenode.net/
 Fyll i det namn du vill använda i chatten i "nickname", skriv in
 **#sparvnastet-studygroup** i "channel" fältet, fyll i captchan och
 anslut. En massa text som du inte hinner läsa (och som du kan
-strunta i) susar förbi. Sedan kommer du till sjäva
+strunta i) susar förbi. Sedan kommer du till själva
 chatt-fönstret. Till höger ser du namnen på alla som är inne i
 chatkanalen. Längst ner finns ett fält där du kan skriva till alla i
 kanalen. Testa att säga "hej" :)
