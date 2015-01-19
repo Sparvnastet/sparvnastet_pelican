@@ -88,7 +88,9 @@ kvinnohat i dataspelsvärlden, och i dataspelen.
 | https://jilliancyork.com/2015/01/09/a-note-from-kathy-sierra/
 | 
 
-**Träff 2 - Fri mjukvara** - *2015-03-18 - 21:00 - 22:00*
+Träff 2 - Fri mjukvara
+----------------------
+**2015-03-18 - 21:00 - 22:00**
 
 Fri mjukvara är en unik företeelse i vårt sammhälle. Det utmanar
 föreställningar om lönearbete och ägande på ett radikalt sätt och är
@@ -97,6 +99,38 @@ samtidigt vida accepterat och över allt närvarande.
 Vi undersöker vad som motiverar programmerare att "jobba gratis", vem
 som tjänar på fri mjukvara och om ekonomisk teori kan ge några
 ledtrådar.
+
+**Studiefrågor:**
+
+| > Är fri mjukvara en gåvoekonomi?
+| > Behövs proprietär inkomstbringande mjukvara för att fri och gratis mjukvara skall produceras?
+| > GPL- vs MIT-licenserna, vilka är "friast"?
+| > Varför "arbeta gratis", motivation för produktion?
+|
+
+**Studiematerial:**
+
+| "Gift and Free Software" - Matthias Studer
+| http://www.commoner.org.uk/09studer.pdf
+|
+| Why Open Source misses the point of Free Software:
+| https://www.gnu.org/philosophy/open-source-misses-the-point.html
+|
+| "Why Hackers Do What They Do:  Understanding Motivation and Effort in Free/Open Source Software Projects" - Karim R. Lakhani & Robert G Wolf
+| http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf
+|
+| "The gift economy and free software" - Jem Matzan
+| http://archive09.linux.com/feature/36554"
+|
+| Gnu/Linux - Milestone on the Way to the GPL-society" - Stefan Merten
+| http://www.opentheory.org/gplsociety/text.phtml
+|
+| "From the Communism of Capital to Capital for the Commons: Towards an Open Co-operativism" - Michel Bauwens, Vasilis Kostakis
+| http://www.triple-c.at/index.php/tripleC/article/view/561
+|
+| "Commons Transition Plan" - Michel Bauwens
+| http://p2pfoundation.net/Commons_Transition_Plan
+| 
 
 **Träff 3 - Hackerkultur - identitet** - *2015-04-01 - 21:00 - 22:00*
 
