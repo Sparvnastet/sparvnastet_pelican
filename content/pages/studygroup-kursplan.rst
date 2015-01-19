@@ -15,12 +15,14 @@ tidigare bloginlägg </studygroup-teaser.html>`_ . Information om hur
 du kommer in i chattrummet vi använder finns på `introträff-sidan
 </pages/studygroup-0.html>`_.
 
-**Träff 0 -Introduktion** - *2015-02-18 - 21:00 - 22:00*
+**Träff 0 - Introduktion** - *2015-02-18 - 21:00 - 22:00*
 
 Lite blandad praktisk information. Vi håller antagligen inte på en hel
 timme.
 
-**Träff 1 - Gamergate** - *2015-03-04 - 21:00 - 22:00*
+Träff 1 - Gamergate
+-------------------
+**2015-03-04 - 21:00 - 22:00**
 
 Under hösten 2014 exploderade en hatbomb på Internet. Intensiteten och
 brutaliteten i de attacker som riktades mot flera framstående kvinnor
@@ -28,6 +30,63 @@ i dataspelsvärlden kom som en chock för många.
 
 Vi vill ta reda på vad som hände och varför. Vi undersöker sexism och
 kvinnohat i dataspelsvärlden, och i dataspelen.
+
+*Triggervarning: Den här studiträffen och studiematerialet innehåller beskrivningar av hot, trakasserier och sexuellt våld mot kvinnor och film från grafiskt realistiska dataspel där sexuellt våld förekommer.*
+
+**Studiefrågor:**
+
+| > Vad hände? Kronologi & personer.
+| > Jämför dataspel och film; vilka likheter och skillnader finns?
+| > Jämför gamergateattackerna och annat näthat; likheter och skillnader?
+| > Strategier för att hantera sexistiska attacker?
+| > Skillnader när män och kvinnor agerar mot sexism och trackaserier?
+|
+
+**Studiematerial:**
+
+| Om Gamergate på Wikipedia:
+| http://en.wikipedia.org/wiki/Gamergate_controversy
+| 
+| Tropes vs. Women in Video Games (video series) - Anita Sarkeesian
+| Damsel in Distress Part 1 (23min): http://youtu.be/X6p5AZp7r_Q
+| Damsel in Distress Part 2 (26min): http://youtu.be/toa_vH6xGqs
+| Damsel in Distress Part 3 (23min): http://youtu.be/LjImnqH_KwM
+| Women as background decoration, part 1 (32min): http://youtu.be/4ZPSrwedvsg
+| Women as background decoration, part 2 (29min): http://youtu.be/5i_RPr9DwMA  
+| 
+| "More than a Damsel in a Dress: A Response" (13min): http://youtu.be/HJihi5rB_Ek
+| 
+| Erfarenheter från produktionen av videoserien:
+| https://www.kickstarter.com/projects/566429325/tropes-vs-women-in-video-games/posts/242547
+| 
+| "Once again, I will not negotiate with terrorists" - Zoe Quinn
+| http://ohdeargodbees.tumblr.com/post/95188657119/once-again-i-will-not-negotiate-with-terrorists
+| 
+| "2015" - Zoe Quinn
+| http://ohdeargodbees.tumblr.com/post/106864805814/2015
+| 
+| "Being a Lady and Playing DayZ" - Kim Correa
+| http://www.onthemedia.org/story/being-lady-and-playing-dayz/
+| 
+| "Open letter to the gaming community" - Andreas Zecher
+| https://medium.com/@andreaszecher/open-letter-to-the-gaming-community-df4511032e8a
+| https://twitter.com/andreaszecher/status/507431384466866176
+| 
+| "Another poorly-researched hit-piece, from the Boston Globe" - Jesse Singal (första posten)
+| http://www.reddit.com/r/KotakuInAction/comments/2h36ue/another_poorlyresearched_hitpiece_from_the_boston/cldrqeu
+| 
+| "A GamerGater’s Day" - smilomaniac
+| http://smilomaniac.blog.com/2014/10/19/a-gamergaters-day/
+| 
+| "Misogyny, Racism and Homophobia: Where Do Video Games Stand?"(56 min) - Manveer Heir
+| http://www.gdcvault.com/play/1020420/Misogyny-Racism-and-Homophobia-Where
+| 
+| "The Only Thing I Have To Say About Gamer Gate" - Felicia Day
+| http://thisfeliciaday.tumblr.com/post/100700417809/the-only-thing-i-have-to-say-about-gamer-gate
+|
+| On freedom of speech and harassment:
+| https://jilliancyork.com/2015/01/09/a-note-from-kathy-sierra/
+| 
 
 **Träff 2 - Fri mjukvara** - *2015-03-18 - 21:00 - 22:00*
 
