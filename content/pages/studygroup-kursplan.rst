@@ -346,6 +346,22 @@ chatt-träffen.
 | "Envisioning a Hamlet Economy:  Topology of Sustainability and Fulfilled Ontogeny" - Jeff Vail
 | http://www.jeffvail.net/2006/04/envisioning-hamlet-economy-topology-of.html
 |
+| B.L.O. - "Barbie Liberation Organization" 
+| https://sniggle.net/barbie.php
+| https://www.youtube.com/watch?v=eMHMf9y-27w
+| 
+| "Whatever Happened To The man behind SimCopter’s gay “Easter Egg”?" - Lyle Masaki
+| http://www.thebacklot.com/whatever-happened-to-the-man-behind-simcopters-gay-easter-egg/06/2007/
+| 
+| Institute for Applied Autonomy (IAA) projects:
+| http://www.appliedautonomy.com/projects.html
+| 
+| BIT ROCKET - Bureau of Inverse Technology (Bit)
+| http://www.bureauit.org/rocket/
+| 
+| Image Fulgurator - Julius von Bismarck
+| http://juliusvonbismarck.com/bank/index.php?/projects/fulgurator-idee/
+|
 | "Free Beer" - Written by speakers at FSCONS 2008
 | http://www.johansoderberg.net/sub02/freebeer-1.2.pdf
 |
@@ -364,3 +380,8 @@ chatt-träffen.
 |
 | Djurrättsaktivister använder quadcopter för att dokumentera tjuvjakt:
 | https://www.youtube.com/watch?v=L3DmZAx0bdQ
+| 
+| "Hacktivism in My Words" - Carmin Karasic  
+| http://www.sousvivalism.nl/ebook/hacktivism-in-my-words/
+| 
+ 
