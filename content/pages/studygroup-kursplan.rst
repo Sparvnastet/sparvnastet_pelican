@@ -7,7 +7,7 @@
 :status: hidden
              
 Detta är studieplanen för **Sparvnästets teknopolitiska
-studiegrup**. Här hittar du literaturlista och datum för de olika
+studiegrupp**. Här hittar du literaturlista och datum för de olika
 teman vi skall studera.
 
 Det finns även ett par frågor till varje träff. Du kan utgå ifrån
