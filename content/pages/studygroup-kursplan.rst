@@ -122,11 +122,17 @@ ledtrådar.
 | Why Open Source misses the point of Free Software:
 | https://www.gnu.org/philosophy/open-source-misses-the-point.html
 |
+| "Tor is Peace, Software Freedom is Slavery, Wikipedia is Truth [27C3] (video 70min)" - Morton Swimmer
+| http://vimeo.com/18504379
+| 
 | "Why Hackers Do What They Do:  Understanding Motivation and Effort in Free/Open Source Software Projects" - Karim R. Lakhani & Robert G Wolf
 | http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf
 |
 | "The gift economy and free software" - Jem Matzan
 | http://archive09.linux.com/feature/36554"
+|
+| "Envisioning a Hamlet Economy:  Topology of Sustainability and Fulfilled Ontogeny" - Jeff Vail
+| http://www.jeffvail.net/2006/04/envisioning-hamlet-economy-topology-of.html
 |
 | Gnu/Linux - Milestone on the Way to the GPL-society" - Stefan Merten
 | http://www.opentheory.org/gplsociety/text.phtml
@@ -342,9 +348,6 @@ chatt-träffen.
 | 
 | "#opIsrael – Anonymous stands by Palestine in this time of war and grief"
 | http://web.archive.org/web/20121122001314/http://anonrelations.net/anonymous-opisrael-95
-|
-| "Envisioning a Hamlet Economy:  Topology of Sustainability and Fulfilled Ontogeny" - Jeff Vail
-| http://www.jeffvail.net/2006/04/envisioning-hamlet-economy-topology-of.html
 |
 | B.L.O. - "Barbie Liberation Organization" 
 | https://sniggle.net/barbie.php
