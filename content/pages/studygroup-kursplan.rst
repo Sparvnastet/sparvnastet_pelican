@@ -8,15 +8,29 @@
              
 Detta är studieplanen för **Sparvnästets teknopolitiska
 studiegrupp**. Här hittar du literaturlista och datum för de olika
-teman vi skall studera.
+teman vi skall studera. Läs materialet och delta i en online-träff för
+att diskutera det.
 
-Det finns även ett par frågor till varje träff. Du kan utgå ifrån
+Vi har sammanställt ett par frågor till varje träff. Du kan utgå ifrån
 dessa när du läser, eller hitta på helt egna frågeställningar.
 
 Bakgrund och generell information om studiegruppen hittar du i `vårt
 tidigare bloginlägg </studygroup-teaser.html>`_ . Information om hur
 du kommer in i chattrummet vi använder finns på `introträff-sidan
 </pages/studygroup-0.html>`_.
+
+Träff 0 - 2015-02-18, 21:00 - 22:00 - `Intro och uppstart <pages/studygroup-0.html>`_
+
+Träff 1 - 2015-03-04, 21:00 - 22:00 - **Gamergate**
+
+Träff 2 - 2015-03-18, 21:00 - 22:00 - **Fri mjukvara**
+
+Träff 3 - 2015-04-01, 21:00 - 22:00 - **Hackerkultur - identitet**
+
+Träff 4 - 2015-04-15, 21:00 - 22:00 - **Hackerkultur - vem är välkommen?**
+
+Träff 5 - 2015-04-29, 21:00 - 22:00 - **Hackers och aktivister**
+
 
 Träff 0 - Introduktion
 ----------------------
@@ -42,9 +56,12 @@ kvinnohat i dataspelsvärlden, och i dataspelen.
 
 | > Vad hände? Kronologi & personer.
 | > Jämför dataspel och film; vilka likheter och skillnader finns?
+| > Varför blossade det här upp just inom IT?
 | > Jämför gamergateattackerna och annat näthat; likheter och skillnader?
 | > Strategier för att hantera sexistiska attacker?
 | > Skillnader när män och kvinnor agerar mot sexism och trackaserier?
+| > Hur hanterar vi situationen när trakasserier och hot rättfärdigas som "Freedom of Speech"? Vad är skillnaden? Finns det en skillnad? Vad är "Freedom of Speech"?
+| > Vad kommer gamergate få för konsekvenser långsiktigt? Har gamerkulturen en chans att överleva utan att kunna ta kritik?
 |
 
 **Studiematerial:**
@@ -59,6 +76,7 @@ kvinnohat i dataspelsvärlden, och i dataspelen.
 | Women as background decoration, part 1 (32min): http://youtu.be/4ZPSrwedvsg
 | Women as background decoration, part 2 (29min): http://youtu.be/5i_RPr9DwMA  
 | 
+
 | "More than a Damsel in a Dress: A Response" (13min): http://youtu.be/HJihi5rB_Ek
 | 
 | Erfarenheter från produktionen av videoserien:
@@ -89,7 +107,7 @@ kvinnohat i dataspelsvärlden, och i dataspelen.
 | "The Only Thing I Have To Say About Gamer Gate" - Felicia Day
 | http://thisfeliciaday.tumblr.com/post/100700417809/the-only-thing-i-have-to-say-about-gamer-gate
 |
-| On freedom of speech and harassment:
+| On freedom of speech and harassment - Kathy Sierra
 | https://jilliancyork.com/2015/01/09/a-note-from-kathy-sierra/
 | 
 
@@ -158,7 +176,7 @@ identitetsskapande cermonier, auktoriteter, attribut, språk, mm.
 
 | > Finns överhuvudtaget *en* hackerkultur eller rör det sig om en mångfald?
 | > Finns det skillnader mellan makers, uppfinnare, nördar, diy och hackers?
-| > Hur har hackerkultur formats? Vilka har haft inflytande i processen? Har den varit medveten?
+| > Hur har hackerkultur formats? Vilka har haft makt över processen? Har den varit medveten?
 | > Finns några politiska och etiska riktningar förknippade med hackerkultur?
 | > Konflikter med konsumtionssamhället, drm, proprietär mjukvara, "tamper proof" mekanismer?
 | > "true hackers" vs "real hackers"?
@@ -229,10 +247,15 @@ från debatten i samhället runt omkring?
 
 **Studiefrågor:**
 
+| > Vem har rätten att uttala sig om hackercommunityt och hur?
 | > Vilka mekanismer ligger bakom att grupper stängs ute?
 | > Vilka initiativ finns för att överbrygga kategorier?
 | > Separatism - bra & dåligt?
 | > Skillnader mellan feminism i hackervärlden & utanför?
+| > Vad får exklusion och trackaserier för konsekvenser långsiktigt?
+| > Har open source/linux en chans att överleva utan att kunna ta kritik?
+| > Vad får trackaserier för konsekvenser kortsiktigt? Vad händer när säkerhetsprojekt och organisationer när de associeras med kvinnohat? (vad händer med EFF som exempel, Mozilla, Git som annat).
+| > Varför kan vi inte släppa vår hjältedyrkan? Varför är fortfarande Linus Torvalds och Assange heliga?
 |
 
 **Studiematerial:**
@@ -249,6 +272,9 @@ från debatten i samhället runt omkring?
 | http://www.catehuston.com/blog/2014/12/31/sigh/
 | http://www.maleallies.com/
 |
+| "Harassment of Female Community Tech Leaders & the After-effects" - Amy Chen
+| https://medium.com/ladies-storm-hackathons/harassment-of-community-tech-leaders-the-aftereffects-1596a5506791
+|
 | "It’s Not “Too Late” for Female Hackers" - Katie Siegel
 | http://soshitech.com/2013/12/29/its-not-too-late-for-female-hackers/
 |
@@ -262,7 +288,7 @@ från debatten i samhället runt omkring?
 | http://motherboard.vice.com/read/we-are-the-future-cunt-cyberfeminism-in-the-90s
 |
 | (First) Cyberfeminist international (1997):
-| > Browse the topics and stuff you find interesting.
+| Browse the topics and stuff you find interesting.
 | http://www.obn.org/kassel/
 |
 | "Women Hackers--a report from the mission to locate subversive women on the net"
