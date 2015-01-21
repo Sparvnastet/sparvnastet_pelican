@@ -19,7 +19,7 @@ tidigare bloginlägg </studygroup-teaser.html>`_ . Information om hur
 du kommer in i chattrummet vi använder finns på `introträff-sidan
 </pages/studygroup-0.html>`_.
 
-Träff 0 - 2015-02-18, 21:00 - 22:00 - `Intro och uppstart <pages/studygroup-0.html>`_
+Träff 0 - 2015-02-18, 21:00 - 22:00 - `Intro och uppstart <studygroup-0.html>`_
 
 Träff 1 - 2015-03-04, 21:00 - 22:00 - **Gamergate**
 
