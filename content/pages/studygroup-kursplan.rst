@@ -23,13 +23,11 @@ Träff 0 - 2015-02-18, 21:00 - 22:00 - `Intro och uppstart <studygroup-0.html>`_
 
 Träff 1 - 2015-03-04, 21:00 - 22:00 - **Gamergate**
 
-Träff 2 - 2015-03-18, 21:00 - 22:00 - **Fri mjukvara**
+Träff 2 - 2015-03-18, 21:00 - 22:00 - **Hackerkultur**
 
-Träff 3 - 2015-04-01, 21:00 - 22:00 - **Hackerkultur - identitet**
+Träff 3 - 2015-04-01, 21:00 - 22:00 - **Fri mjukvara**
 
-Träff 4 - 2015-04-15, 21:00 - 22:00 - **Hackerkultur - vem är välkommen?**
-
-Träff 5 - 2015-04-29, 21:00 - 22:00 - **Hackers och aktivister**
+Träff 4 - 2015-04-15, 21:00 - 22:00 - **Hackers och aktivister**
 
 
 Träff 0 - Introduktion
@@ -43,50 +41,40 @@ Träff 1 - Gamergate
 -------------------
 **2015-03-04 - 21:00 - 22:00**
 
-Under hösten 2014 exploderade en hatbomb på Internet. Intensiteten och
-brutaliteten i de attacker som riktades mot flera framstående kvinnor
-i dataspelsvärlden kom som en chock för många.
+Under hösten 2014 exploderade en hatbomb på Internet;
+Gamergate. Intensiteten och brutaliteten i de attacker som riktades
+mot flera framstående kvinnor i dataspelsvärlden kom som en chock för
+många.
 
-Vi vill ta reda på vad som hände och varför. Vi undersöker sexism och
-kvinnohat i dataspelsvärlden, och i dataspelen.
+Men Gamergate var bara ett medialt uppmärksammat exempel på ett mycket
+större problem i tech/gamer/DIY/hacker/FLOSS-världen. För att vara en
+kultur som hävdar sig enbart se till vad en kan, säger och gör är det
+anmärkningsvärt att den nästan uteslutande består av vita cis-män.
 
 *Triggervarning: Den här studiträffen och studiematerialet innehåller beskrivningar av hot, trakasserier och sexuellt våld mot kvinnor och film från grafiskt realistiska dataspel där sexuellt våld förekommer.*
 
 **Studiefrågor:**
 
-| > Vad hände? Kronologi & personer.
-| > Jämför dataspel och film; vilka likheter och skillnader finns?
-| > Varför blossade det här upp just inom IT?
-| > Jämför gamergateattackerna och annat näthat; likheter och skillnader?
-| > Strategier för att hantera sexistiska attacker?
+| > Varför blossade gamergate upp just inom IT/tech?
 | > Skillnader när män och kvinnor agerar mot sexism och trackaserier?
-| > Hur hanterar vi situationen när trakasserier och hot rättfärdigas som "Freedom of Speech"? Vad är skillnaden? Finns det en skillnad? Vad är "Freedom of Speech"?
-| > Vad kommer gamergate få för konsekvenser långsiktigt? Har gamerkulturen en chans att överleva utan att kunna ta kritik?
+| > Hur hanterar vi situationen när trakasserier och  hot rättfärdigas som "Freedom of Speech"? Vad är skillnaden? Finns det en skillnad? Vad är "Freedom of Speech"?
+| > Vad kommer gamergate få för konsekvenser långsiktigt? Har tech-kulturen en chans att överleva utan att kunna ta kritik?
+| > Vad får  trackaserier för konsekvenser  kortsiktigt? Vad händer när   säkerhetsprojekt och organisationer när de  associeras med kvinnohat?  (vad händer med EFF som exempel, Mozilla, Git  som annat).
+| > Varför kan vi inte släppa vår hjältedyrkan? Varför är fortfarande Linus Torvalds och Assange heliga?
 |
 
 **Studiematerial:**
 
+*Literaturlistan till den här träffen är ännu inte helt klar...*
+
 | Om Gamergate på Wikipedia:
 | http://en.wikipedia.org/wiki/Gamergate_controversy
-| 
-| Tropes vs. Women in Video Games (video series) - Anita Sarkeesian
-| Damsel in Distress Part 1 (23min): http://youtu.be/X6p5AZp7r_Q
-| Damsel in Distress Part 2 (26min): http://youtu.be/toa_vH6xGqs
-| Damsel in Distress Part 3 (23min): http://youtu.be/LjImnqH_KwM
-| Women as background decoration, part 1 (32min): http://youtu.be/4ZPSrwedvsg
-| Women as background decoration, part 2 (29min): http://youtu.be/5i_RPr9DwMA  
-| 
-
-| "More than a Damsel in a Dress: A Response" (13min): http://youtu.be/HJihi5rB_Ek
-| 
-| Erfarenheter från produktionen av videoserien:
-| https://www.kickstarter.com/projects/566429325/tropes-vs-women-in-video-games/posts/242547
-| 
+|
+| "GamerGate: A Closer Look At The Controversy Sweeping Video Games" - Erik Kain
+| http://www.forbes.com/sites/erikkain/2014/09/04/gamergate-a-closer-look-at-the-controversy-sweeping-video-games/
+|
 | "Once again, I will not negotiate with terrorists" - Zoe Quinn
 | http://ohdeargodbees.tumblr.com/post/95188657119/once-again-i-will-not-negotiate-with-terrorists
-| 
-| "2015" - Zoe Quinn
-| http://ohdeargodbees.tumblr.com/post/106864805814/2015
 | 
 | "Being a Lady and Playing DayZ" - Kim Correa
 | http://www.onthemedia.org/story/being-lady-and-playing-dayz/
@@ -101,70 +89,110 @@ kvinnohat i dataspelsvärlden, och i dataspelen.
 | "A GamerGater’s Day" - smilomaniac
 | http://smilomaniac.blog.com/2014/10/19/a-gamergaters-day/
 | 
-| "Misogyny, Racism and Homophobia: Where Do Video Games Stand?"(56 min) - Manveer Heir
-| http://www.gdcvault.com/play/1020420/Misogyny-Racism-and-Homophobia-Where
-| 
 | "The Only Thing I Have To Say About Gamer Gate" - Felicia Day
 | http://thisfeliciaday.tumblr.com/post/100700417809/the-only-thing-i-have-to-say-about-gamer-gate
 |
 | On freedom of speech and harassment - Kathy Sierra
 | https://jilliancyork.com/2015/01/09/a-note-from-kathy-sierra/
 | 
+| "Dear Hacker Community – We Need To Talk" - Asher Wolf
+| http://web.archive.org/web/20130904192251/http://asherwolf.net/dear-hacker-community-we-need-to-talk/101/
+| 
+| "Online Harassment: Hacker Culture" - Ayesha aka aSh
+| http://www.danceofred.com/2012/12/online-harassment-hacker-culture.html
+|
+| "It’s Not an Asshole Problem—It’s a Bystander Problem" - Cate Huston
+| http://www.catehuston.com/blog/2014/12/31/sigh/
+| http://www.maleallies.com/
+|
+| "Harassment of Female Community Tech Leaders & the After-effects" - Amy Chen
+| https://medium.com/ladies-storm-hackathons/harassment-of-community-tech-leaders-the-aftereffects-1596a5506791
+|
+| "Abusing Contributors is not OK" - Nick Coghlan
+| http://www.curiousefficiency.org/posts/2015/01/abuse-is-not-ok.html
+|
+| "It’s Not “Too Late” for Female Hackers" - Katie Siegel
+| http://soshitech.com/2013/12/29/its-not-too-late-for-female-hackers/
+|
+| "Hacking into Hacking: Gender and the Hacker Phenomenon" -  A. E. Adam
+| `hackingintohacking.txt </files/hackingintohacking.txt>`_
+|
+| "Women Hackers--a report from the mission to locate subversive women on the net"
+| - Cornelia Sollfrank, Rotterdam, 1999
+| http://www.obn.org/hackers/text1.htm
+|
+| "HOWTO Encourage Women in Linux" - Val Henson
+| http://tldp.org/HOWTO/Encourage-Women-Linux-HOWTO/
+|
+| Women-friendly events
+| http://geekfeminism.wikia.com/wiki/Women-friendly_events
+| 
+| "Gender and Ethnicity; A Portrait of J. Random Hacker" - Jargon file
+| http://www.catb.org/jargon/html/demographics.html
+|
 
-Träff 2 - Fri mjukvara
+**Extra studiematerial (frivillig fördjupning):**
+
+| Tropes vs. Women in Video Games (video series) - Anita Sarkeesian
+| Damsel in Distress Part 1 (23min): http://youtu.be/X6p5AZp7r_Q
+| Damsel in Distress Part 2 (26min): http://youtu.be/toa_vH6xGqs
+| Damsel in Distress Part 3 (23min): http://youtu.be/LjImnqH_KwM
+| Women as background decoration, part 1 (32min): http://youtu.be/4ZPSrwedvsg
+| Women as background decoration, part 2 (29min): http://youtu.be/5i_RPr9DwMA  
+| 
+| "More than a Damsel in a Dress: A Response" (13min): http://youtu.be/HJihi5rB_Ek
+| 
+| Erfarenheter från produktionen av videoserien:
+| https://www.kickstarter.com/projects/566429325/tropes-vs-women-in-video-games/posts/242547
+|
+| "Misogyny, Racism and Homophobia: Where Do Video Games Stand?"(56 min) - Manveer Heir
+| http://www.gdcvault.com/play/1020420/Misogyny-Racism-and-Homophobia-Where
+|
+| "The Gamer Is Dead: Long Live The Gamer" - Erik Kain
+| http://www.forbes.com/sites/erikkain/2014/09/01/the-gamer-is-dead-long-live-the-gamer/
+|
+| "31c3: inclusivity, bias and awareness" - Zara
+| http://zararah.net/blog/2015/01/04/31c3-inclusivity-bias/
+| 
+| "2015" - Zoe Quinn
+| http://ohdeargodbees.tumblr.com/post/106864805814/2015
+|
+| Hack Code of Conduct examples:
+| http://hackcodeofconduct.org/
+| http://www.arthackday.net/code_of_conduct
+| http://opensourcebridge.org/about/code-of-conduct/
+|
+| "Liberating Ourselves Locally"
+| a people-of-color-led, gender-diverse, queer and trans inclusive hacker/maker space in East Oakland
+| https://oaklandmakerspace.wordpress.com/about/
+| https://www.indiegogo.com/projects/people-of-color-led-makerspace-and-hackerspace
+|
+| Double Union is a hacker/maker space for women in San Francisco.
+| https://www.doubleunion.org/
+|
+| "'We Are the Future Cunt': CyberFeminism in the 90s" - Claire L. Evans
+| http://motherboard.vice.com/read/we-are-the-future-cunt-cyberfeminism-in-the-90s
+|
+| (First) Cyberfeminist international (1997):
+| Browse the topics and stuff you find interesting.
+| http://www.obn.org/kassel/
+|
+| "Intel Buckles to Anti-Feminist Campaign by Pulling Ads From Gaming Site" - Rich McCormick 
+| http://www.theverge.com/2014/10/2/6886747/intel-buckles-to-anti-feminist-campaign-by-pulling-ads-from-gaming
+|
+| Intel Issues Statement on Gamasutra Advertising
+| http://newsroom.intel.com/community/intel_newsroom/blog/2014/10/03/chip-shot-intel-issues-statement-on-gamasutra-advertising
+|
+| "Trouble at the Koolaid Point" -  Serious Pony
+| http://seriouspony.com/trouble-at-the-koolaid-point/
+|
+| Critique of the open source comunity - Lennart Poettering
+| https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/J2TZrTvu7vd
+|
+
+Träff 2 - Hackerkultur
 ----------------------
 **2015-03-18 - 21:00 - 22:00**
-
-Fri mjukvara är en unik företeelse i vårt sammhälle. Det utmanar
-föreställningar om lönearbete och ägande på ett radikalt sätt och är
-samtidigt vida accepterat och över allt närvarande.
-
-Vi undersöker vad som motiverar programmerare att "jobba gratis", vem
-som tjänar på fri mjukvara och om ekonomisk teori kan ge några
-ledtrådar.
-
-**Studiefrågor:**
-
-| > Är fri mjukvara en gåvoekonomi?
-| > Behövs proprietär inkomstbringande mjukvara för att fri och gratis mjukvara skall produceras?
-| > Varför "arbeta gratis", motivation för produktion?
-|
-
-**Studiematerial:**
-
-*Literaturlistan till den här träffen är ännu inte helt klar...*
-
-| "Gift and Free Software" - Matthias Studer
-| http://www.commoner.org.uk/09studer.pdf
-|
-| Why Open Source misses the point of Free Software:
-| https://www.gnu.org/philosophy/open-source-misses-the-point.html
-|
-| "Tor is Peace, Software Freedom is Slavery, Wikipedia is Truth [27C3] (video 70min)" - Morton Swimmer
-| http://vimeo.com/18504379
-| 
-| "Why Hackers Do What They Do:  Understanding Motivation and Effort in Free/Open Source Software Projects" - Karim R. Lakhani & Robert G Wolf
-| http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf
-|
-| "The gift economy and free software" - Jem Matzan
-| http://archive09.linux.com/feature/36554"
-|
-| "Envisioning a Hamlet Economy:  Topology of Sustainability and Fulfilled Ontogeny" - Jeff Vail
-| http://www.jeffvail.net/2006/04/envisioning-hamlet-economy-topology-of.html
-|
-| Gnu/Linux - Milestone on the Way to the GPL-society" - Stefan Merten
-| http://www.opentheory.org/gplsociety/text.phtml
-|
-| "From the Communism of Capital to Capital for the Commons: Towards an Open Co-operativism" - Michel Bauwens, Vasilis Kostakis
-| http://www.triple-c.at/index.php/tripleC/article/view/561
-|
-| "Commons Transition Plan" - Michel Bauwens
-| http://p2pfoundation.net/Commons_Transition_Plan
-| 
-
-Träff 3 - Hackerkultur - identitet
-----------------------------------
-**2015-04-01 - 21:00 - 22:00**
 
 Finns en hackerkultur eller en hackeridentitet? Hur är den i så fall beskaffad?
 
@@ -232,92 +260,64 @@ identitetsskapande cermonier, auktoriteter, attribut, språk, mm.
 | http://www.cypherpunks.to/faq/cyphernomicron/chapter3.html#4
 |
 
-Träff 4 - Hackerkultur - vem är välkommen?
-------------------------------------------
-**2015-04-15 - 21:00 - 22:00**
+Träff 3 - Fri mjukvara
+----------------------
+**2015-04-01 - 21:00 - 22:00**
 
-Om en bortser från den hackeridentitet, som studeras i förra träffen,
-och interna splitringar i den, finns ett antal konfliktlinjer kvar i
-hackergemenskapen. Det handlar om inkluderande/exkluderande längs med
-kategorier som finns i sammhället runt omkring; kön, ras, klass, etc.
+Fri mjukvara är en unik företeelse i vårt sammhälle. Det utmanar
+föreställningar om lönearbete och ägande på ett radikalt sätt och är
+samtidigt vida accepterat och över allt närvarande.
 
-I den här träffen undersöker vi hur debatten ser ut i
-hackergemenskapen; finns den alls, var förs den och skiljer den sig
-från debatten i samhället runt omkring?
+Vi undersöker vad som motiverar programmerare att "jobba gratis", vem
+som tjänar på fri mjukvara och om ekonomisk teori kan ge några
+ledtrådar.
 
 **Studiefrågor:**
 
-| > Vem har rätten att uttala sig om hackercommunityt och hur?
-| > Vilka mekanismer ligger bakom att grupper stängs ute?
-| > Vilka initiativ finns för att överbrygga kategorier?
-| > Separatism - bra & dåligt?
-| > Skillnader mellan feminism i hackervärlden & utanför?
-| > Vad får exklusion och trackaserier för konsekvenser långsiktigt?
-| > Har open source/linux en chans att överleva utan att kunna ta kritik?
-| > Vad får trackaserier för konsekvenser kortsiktigt? Vad händer när säkerhetsprojekt och organisationer när de associeras med kvinnohat? (vad händer med EFF som exempel, Mozilla, Git som annat).
-| > Varför kan vi inte släppa vår hjältedyrkan? Varför är fortfarande Linus Torvalds och Assange heliga?
+| > Är fri mjukvara en gåvoekonomi?
+| > Behövs proprietär inkomstbringande mjukvara för att fri och gratis mjukvara skall produceras?
+| > Varför "arbeta gratis", motivation för produktion?
 |
 
 **Studiematerial:**
 
 *Literaturlistan till den här träffen är ännu inte helt klar...*
 
-| "Dear Hacker Community – We Need To Talk" - Asher Wolf
-| http://web.archive.org/web/20130904192251/http://asherwolf.net/dear-hacker-community-we-need-to-talk/101/
+| "Gift and Free Software" - Matthias Studer
+| http://www.commoner.org.uk/09studer.pdf
 |
-| "Online Harassment: Hacker Culture" - Ayesha aka aSh
-| http://www.danceofred.com/2012/12/online-harassment-hacker-culture.html
+| Why Open Source misses the point of Free Software:
+| https://www.gnu.org/philosophy/open-source-misses-the-point.html
 |
-| "It’s Not an Asshole Problem—It’s a Bystander Problem" - Cate Huston
-| http://www.catehuston.com/blog/2014/12/31/sigh/
-| http://www.maleallies.com/
+| "Tor is Peace, Software Freedom is Slavery, Wikipedia is Truth [27C3] (video 70min)" - Morton Swimmer
+| http://vimeo.com/18504379
+| 
+| "Why Hackers Do What They Do:  Understanding Motivation and Effort in Free/Open Source Software Projects" - Karim R. Lakhani & Robert G Wolf
+| http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf
 |
-| "Harassment of Female Community Tech Leaders & the After-effects" - Amy Chen
-| https://medium.com/ladies-storm-hackathons/harassment-of-community-tech-leaders-the-aftereffects-1596a5506791
+| "Kvinnor och open source" - Hedvig Kamp
+| http://www.foss-sthlm.se/mote2/kvinnor-och-opensource.avi
+| http://www.foss-sthlm.se/mote2/women-in-foss.pdf
 |
-| "It’s Not “Too Late” for Female Hackers" - Katie Siegel
-| http://soshitech.com/2013/12/29/its-not-too-late-for-female-hackers/
+| "The gift economy and free software" - Jem Matzan
+| http://archive09.linux.com/feature/36554"
 |
-| "Hacking into Hacking: Gender and the Hacker Phenomenon" -  A. E. Adam
-| `hackingintohacking.txt </files/hackingintohacking.txt>`_
+| "Envisioning a Hamlet Economy:  Topology of Sustainability and Fulfilled Ontogeny" - Jeff Vail
+| http://www.jeffvail.net/2006/04/envisioning-hamlet-economy-topology-of.html
 |
-| "31c3: inclusivity, bias and awareness" - Zara
-| http://zararah.net/blog/2015/01/04/31c3-inclusivity-bias/
+| Gnu/Linux - Milestone on the Way to the GPL-society" - Stefan Merten
+| http://www.opentheory.org/gplsociety/text.phtml
 |
-| "'We Are the Future Cunt': CyberFeminism in the 90s" - Claire L. Evans
-| http://motherboard.vice.com/read/we-are-the-future-cunt-cyberfeminism-in-the-90s
+| "From the Communism of Capital to Capital for the Commons: Towards an Open Co-operativism" - Michel Bauwens, Vasilis Kostakis
+| http://www.triple-c.at/index.php/tripleC/article/view/561
 |
-| (First) Cyberfeminist international (1997):
-| Browse the topics and stuff you find interesting.
-| http://www.obn.org/kassel/
-|
-| "Women Hackers--a report from the mission to locate subversive women on the net"
-| - Cornelia Sollfrank, Rotterdam, 1999
-| http://www.obn.org/hackers/text1.htm
-|
-| Women-friendly events
-| http://geekfeminism.wikia.com/wiki/Women-friendly_events
-|
-| "Gender and Ethnicity; A Portrait of J. Random Hacker" - Jargon file
-| http://www.catb.org/jargon/html/demographics.html
-|
-| Hack Code of Conduct examples:
-| http://hackcodeofconduct.org/
-| http://www.arthackday.net/code_of_conduct
-| http://opensourcebridge.org/about/code-of-conduct/
-|
-| "Liberating Ourselves Locally"
-| a people-of-color-led, gender-diverse, queer and trans inclusive hacker/maker space in East Oakland
-| https://oaklandmakerspace.wordpress.com/about/
-| https://www.indiegogo.com/projects/people-of-color-led-makerspace-and-hackerspace
-|
-| Double Union is a hacker/maker space for women in San Francisco.
-| https://www.doubleunion.org/
-|
+| "Commons Transition Plan" - Michel Bauwens
+| http://p2pfoundation.net/Commons_Transition_Plan
+| 
 
-Träff 5 - Hackers och aktivister
+Träff 4 - Hackers och aktivister
 --------------------------------
-**2015-04-29 - 21:00 - 22:00**
+**2015-04-15 - 21:00 - 22:00**
 
 När Stratfor hackades publicerades texten "Det stundande upproret" på
 sidan. Det är en radikal politisk text, vilket gav hacket en

@@ -42,10 +42,8 @@ Träff 0 - 2015-02-18, 21:00 - 22:00 - `Intro och uppstart <pages/studygroup-0.h
 
 Träff 1 - 2015-03-04, 21:00 - 22:00 - **Gamergate**
 
-Träff 2 - 2015-03-18, 21:00 - 22:00 - **Fri mjukvara**
+Träff 2 - 2015-03-18, 21:00 - 22:00 - **Hackerkultur**
 
-Träff 3 - 2015-04-01, 21:00 - 22:00 - **Hackerkultur - identitet**
+Träff 3 - 2015-04-01, 21:00 - 22:00 - **Fri mjukvara**
 
-Träff 4 - 2015-04-15, 21:00 - 22:00 - **Hackerkultur - vem är välkommen?**
-
-Träff 5 - 2015-04-29, 21:00 - 22:00 - **Hackers och aktivister**
+Träff 4 - 2015-04-15, 21:00 - 22:00 - **Hackers och aktivister**
