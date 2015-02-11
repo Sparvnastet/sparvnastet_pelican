@@ -37,73 +37,36 @@ Träff 0 - Introduktion
 `Lite blandad praktisk information </pages/studygroup-0.html>`_.  Vi
 håller antagligen inte på en hel timme.
 
-Träff 1 - Gamergate
--------------------
+Träff 1 - Diversity in Tech
+-----------------------------
 **2015-03-04 - 21:00 - 22:00**
 
-Under hösten 2014 exploderade en hatbomb på Internet;
-Gamergate. Intensiteten och brutaliteten i de attacker som riktades
-mot flera framstående kvinnor i dataspelsvärlden kom som en chock för
-många.
-
-Men Gamergate var bara ett medialt uppmärksammat exempel på ett mycket
-större problem i tech/gamer/DIY/hacker/FLOSS-världen. För att vara en
+Det finns strukturella problem med jämställdhet och rasism i tech/gamer/DIY/hacker/FLOSS-världen. För att vara en
 kultur som hävdar sig enbart se till vad en kan, säger och gör är det
 anmärkningsvärt att den nästan uteslutande består av vita cis-män.
-
-*Triggervarning: Den här studiträffen och studiematerialet innehåller beskrivningar av hot, trakasserier och sexuellt våld mot kvinnor och film från grafiskt realistiska dataspel där sexuellt våld förekommer.*
 
 **Studiefrågor:**
 
 | > Varför blossade gamergate upp just inom IT/tech?
 | > Skillnader när män och kvinnor agerar mot sexism och trackaserier?
 | > Hur hanterar vi situationen när trakasserier och  hot rättfärdigas som "Freedom of Speech"? Vad är skillnaden? Finns det en skillnad? Vad är "Freedom of Speech"?
-| > Vad kommer gamergate få för konsekvenser långsiktigt? Har tech-kulturen en chans att överleva utan att kunna ta kritik?
+| > Har tech-kulturen en chans att överleva utan att kunna ta kritik?
 | > Vad får  trackaserier för konsekvenser  kortsiktigt? Vad händer när   säkerhetsprojekt och organisationer när de  associeras med kvinnohat?  (vad händer med EFF som exempel, Mozilla, Git  som annat).
 | > Varför kan vi inte släppa vår hjältedyrkan? Varför är fortfarande Linus Torvalds och Assange heliga?
 |
 
 **Studiematerial:**
 
-*Literaturlistan till den här träffen är ännu inte helt klar...*
 
-| Om Gamergate på Wikipedia:
-| http://en.wikipedia.org/wiki/Gamergate_controversy
-|
-| "GamerGate: A Closer Look At The Controversy Sweeping Video Games" - Erik Kain
-| http://www.forbes.com/sites/erikkain/2014/09/04/gamergate-a-closer-look-at-the-controversy-sweeping-video-games/
-|
-| "Once again, I will not negotiate with terrorists" - Zoe Quinn
-| http://ohdeargodbees.tumblr.com/post/95188657119/once-again-i-will-not-negotiate-with-terrorists
-| 
-| "Being a Lady and Playing DayZ" - Kim Correa
-| http://www.onthemedia.org/story/being-lady-and-playing-dayz/
-| 
-| "Open letter to the gaming community" - Andreas Zecher
-| https://medium.com/@andreaszecher/open-letter-to-the-gaming-community-df4511032e8a
-| https://twitter.com/andreaszecher/status/507431384466866176
-| 
-| "Another poorly-researched hit-piece, from the Boston Globe" - Jesse Singal (första posten)
-| http://www.reddit.com/r/KotakuInAction/comments/2h36ue/another_poorlyresearched_hitpiece_from_the_boston/cldrqeu
-| 
-| "A GamerGater’s Day" - smilomaniac
-| http://smilomaniac.blog.com/2014/10/19/a-gamergaters-day/
-| 
-| "The Only Thing I Have To Say About Gamer Gate" - Felicia Day
-| http://thisfeliciaday.tumblr.com/post/100700417809/the-only-thing-i-have-to-say-about-gamer-gate
 |
 | On freedom of speech and harassment - Kathy Sierra
 | https://jilliancyork.com/2015/01/09/a-note-from-kathy-sierra/
-| 
-| "Dear Hacker Community – We Need To Talk" - Asher Wolf
-| http://web.archive.org/web/20130904192251/http://asherwolf.net/dear-hacker-community-we-need-to-talk/101/
 | 
 | "Online Harassment: Hacker Culture" - Ayesha aka aSh
 | http://www.danceofred.com/2012/12/online-harassment-hacker-culture.html
 |
 | "It’s Not an Asshole Problem—It’s a Bystander Problem" - Cate Huston
 | http://www.catehuston.com/blog/2014/12/31/sigh/
-| http://www.maleallies.com/
 |
 | "Harassment of Female Community Tech Leaders & the After-effects" - Amy Chen
 | https://medium.com/ladies-storm-hackathons/harassment-of-community-tech-leaders-the-aftereffects-1596a5506791
@@ -148,9 +111,6 @@ anmärkningsvärt att den nästan uteslutande består av vita cis-män.
 | "Misogyny, Racism and Homophobia: Where Do Video Games Stand?"(56 min) - Manveer Heir
 | http://www.gdcvault.com/play/1020420/Misogyny-Racism-and-Homophobia-Where
 |
-| "The Gamer Is Dead: Long Live The Gamer" - Erik Kain
-| http://www.forbes.com/sites/erikkain/2014/09/01/the-gamer-is-dead-long-live-the-gamer/
-|
 | "31c3: inclusivity, bias and awareness" - Zara
 | http://zararah.net/blog/2015/01/04/31c3-inclusivity-bias/
 | 
@@ -176,12 +136,6 @@ anmärkningsvärt att den nästan uteslutande består av vita cis-män.
 | (First) Cyberfeminist international (1997):
 | Browse the topics and stuff you find interesting.
 | http://www.obn.org/kassel/
-|
-| "Intel Buckles to Anti-Feminist Campaign by Pulling Ads From Gaming Site" - Rich McCormick 
-| http://www.theverge.com/2014/10/2/6886747/intel-buckles-to-anti-feminist-campaign-by-pulling-ads-from-gaming
-|
-| Intel Issues Statement on Gamasutra Advertising
-| http://newsroom.intel.com/community/intel_newsroom/blog/2014/10/03/chip-shot-intel-issues-statement-on-gamasutra-advertising
 |
 | "Trouble at the Koolaid Point" -  Serious Pony
 | http://seriouspony.com/trouble-at-the-koolaid-point/

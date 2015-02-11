@@ -40,7 +40,7 @@ och andra.
 
 Träff 0 - 2015-02-18, 21:00 - 22:00 - `Intro och uppstart <pages/studygroup-0.html>`_
 
-Träff 1 - 2015-03-04, 21:00 - 22:00 - **Gamergate**
+Träff 1 - 2015-03-04, 21:00 - 22:00 - **Diversity in tech**
 
 Träff 2 - 2015-03-18, 21:00 - 22:00 - **Hackerkultur**
 
