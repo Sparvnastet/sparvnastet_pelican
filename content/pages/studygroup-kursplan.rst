@@ -5,7 +5,7 @@
 :authors: Sparven
 :summary: Studieplan: Teknopolitiska Studiegruppen
 :status: hidden
-             
+
 Detta är studieplanen för **Sparvnästets teknopolitiska
 studiegrupp**. Här hittar du literaturlista och datum för de olika
 teman vi skall studera. Läs materialet och delta i en online-träff för
@@ -21,13 +21,13 @@ du kommer in i chattrummet vi använder finns på `introträff-sidan
 
 Träff 0 - 2015-02-18, 21:00 - 22:00 - `Intro och uppstart <studygroup-0.html>`_
 
-Träff 1 - 2015-03-04, 21:00 - 22:00 - **Gamergate**
+Träff 1 - 2015-03-04, 21:00 - 22:00 - **Diversity in Tech**
 
-Träff 2 - 2015-03-18, 21:00 - 22:00 - **Hackerkultur**
+Träff 2 - 2015-03-18, 21:00 - 22:30 - **Hackerkultur**
 
-Träff 3 - 2015-04-01, 21:00 - 22:00 - **Fri mjukvara**
+Träff 3 - 2015-04-01, 21:00 - 22:30 - **Fri mjukvara**
 
-Träff 4 - 2015-04-15, 21:00 - 22:00 - **Hackers och aktivister**
+Träff 4 - 2015-04-15, 21:00 - 22:30 - **Hackers och aktivister**
 
 
 Träff 0 - Introduktion
@@ -61,7 +61,7 @@ anmärkningsvärt att den nästan uteslutande består av vita cis-män.
 |
 | On freedom of speech and harassment - Kathy Sierra
 | https://jilliancyork.com/2015/01/09/a-note-from-kathy-sierra/
-| 
+|
 | "Online Harassment: Hacker Culture" - Ayesha aka aSh
 | http://www.danceofred.com/2012/12/online-harassment-hacker-culture.html
 |
@@ -89,7 +89,7 @@ anmärkningsvärt att den nästan uteslutande består av vita cis-män.
 |
 | Women-friendly events
 | http://geekfeminism.wikia.com/wiki/Women-friendly_events
-| 
+|
 | "Gender and Ethnicity; A Portrait of J. Random Hacker" - Jargon file
 | http://www.catb.org/jargon/html/demographics.html
 |
@@ -101,10 +101,10 @@ anmärkningsvärt att den nästan uteslutande består av vita cis-män.
 | Damsel in Distress Part 2 (26min): http://youtu.be/toa_vH6xGqs
 | Damsel in Distress Part 3 (23min): http://youtu.be/LjImnqH_KwM
 | Women as background decoration, part 1 (32min): http://youtu.be/4ZPSrwedvsg
-| Women as background decoration, part 2 (29min): http://youtu.be/5i_RPr9DwMA  
-| 
+| Women as background decoration, part 2 (29min): http://youtu.be/5i_RPr9DwMA
+|
 | "More than a Damsel in a Dress: A Response" (13min): http://youtu.be/HJihi5rB_Ek
-| 
+|
 | Erfarenheter från produktionen av videoserien:
 | https://www.kickstarter.com/projects/566429325/tropes-vs-women-in-video-games/posts/242547
 |
@@ -113,7 +113,7 @@ anmärkningsvärt att den nästan uteslutande består av vita cis-män.
 |
 | "31c3: inclusivity, bias and awareness" - Zara
 | http://zararah.net/blog/2015/01/04/31c3-inclusivity-bias/
-| 
+|
 | "2015" - Zoe Quinn
 | http://ohdeargodbees.tumblr.com/post/106864805814/2015
 |
@@ -146,7 +146,7 @@ anmärkningsvärt att den nästan uteslutande består av vita cis-män.
 
 Träff 2 - Hackerkultur
 ----------------------
-**2015-03-18 - 21:00 - 22:00**
+**2015-03-18 - 21:00 - 22:30**
 
 Finns en hackerkultur eller en hackeridentitet? Hur är den i så fall beskaffad?
 
@@ -165,8 +165,6 @@ identitetsskapande cermonier, auktoriteter, attribut, språk, mm.
 |
 
 **Studiematerial:**
-
-*Literaturlistan till den här träffen är ännu inte helt klar...*
 
 | "Is it a Hackerspace, Makerspace, TechShop, or FabLab?" - Gui Cavalcanti
 | http://makezine.com/2013/05/22/the-difference-between-hackerspaces-makerspaces-techshops-and-fablabs/
@@ -216,7 +214,7 @@ identitetsskapande cermonier, auktoriteter, attribut, språk, mm.
 
 Träff 3 - Fri mjukvara
 ----------------------
-**2015-04-01 - 21:00 - 22:00**
+**2015-04-01 - 21:00 - 22:30**
 
 Fri mjukvara är en unik företeelse i vårt sammhälle. Det utmanar
 föreställningar om lönearbete och ägande på ett radikalt sätt och är
@@ -245,7 +243,7 @@ ledtrådar.
 |
 | "Tor is Peace, Software Freedom is Slavery, Wikipedia is Truth [27C3] (video 70min)" - Morton Swimmer
 | http://vimeo.com/18504379
-| 
+|
 | "Why Hackers Do What They Do:  Understanding Motivation and Effort in Free/Open Source Software Projects" - Karim R. Lakhani & Robert G Wolf
 | http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf
 |
@@ -267,11 +265,11 @@ ledtrådar.
 |
 | "Commons Transition Plan" - Michel Bauwens
 | http://p2pfoundation.net/Commons_Transition_Plan
-| 
+|
 
 Träff 4 - Hackers och aktivister
 --------------------------------
-**2015-04-15 - 21:00 - 22:00**
+**2015-04-15 - 21:00 - 22:30**
 
 När Stratfor hackades publicerades texten "Det stundande upproret" på
 sidan. Det är en radikal politisk text, vilket gav hacket en
@@ -292,7 +290,7 @@ chatt-träffen.
 | > Vilka politiska hack eller hackergrupper kan du komma på?
 | > Vilka politiska frågor intresserar hackers?
 | > Vad är hacktivism?
-| 
+|
 
 **Studiematerial:**
 
@@ -306,7 +304,7 @@ chatt-träffen.
 |
 | Jeremy Hammond at DEFCON 2004 (27 min video)
 | http://vimeo.com/38329327
-| 
+|
 | "The coming insurrection" - The Invisible Committee:
 | Läs kapitlet: "Fourth Circle: More simple, more fun, more mobile, more secure!”
 | http://tarnac9.wordpress.com/texts/the-coming-insurrection/
@@ -322,26 +320,26 @@ chatt-träffen.
 | "Zero State: Computerised Counter-Planning"
 | https://libcom.org/files/Chapter8.pdf
 |
-| "The Real Role Of Anonymous In Occupy Wall Street" - Sean Captain 
+| "The Real Role Of Anonymous In Occupy Wall Street" - Sean Captain
 | http://abcnews.go.com/Business/occupy-wall-street-dark-side-hacking-threats-dirt/story?id=14706311
 | http://www.fastcompany.com/1788397/real-role-anonymous-occupy-wall-street
-| 
+|
 | "#opIsrael – Anonymous stands by Palestine in this time of war and grief"
 | http://web.archive.org/web/20121122001314/http://anonrelations.net/anonymous-opisrael-95
 |
-| B.L.O. - "Barbie Liberation Organization" 
+| B.L.O. - "Barbie Liberation Organization"
 | https://sniggle.net/barbie.php
 | https://www.youtube.com/watch?v=eMHMf9y-27w
-| 
+|
 | "Whatever Happened To The man behind SimCopter’s gay “Easter Egg”?" - Lyle Masaki
 | http://www.thebacklot.com/whatever-happened-to-the-man-behind-simcopters-gay-easter-egg/06/2007/
-| 
+|
 | Institute for Applied Autonomy (IAA) projects:
 | http://www.appliedautonomy.com/projects.html
-| 
+|
 | BIT ROCKET - Bureau of Inverse Technology (Bit)
 | http://www.bureauit.org/rocket/
-| 
+|
 | Image Fulgurator - Julius von Bismarck
 | http://juliusvonbismarck.com/bank/index.php?/projects/fulgurator-idee/
 |
@@ -363,8 +361,7 @@ chatt-träffen.
 |
 | Djurrättsaktivister använder quadcopter för att dokumentera tjuvjakt:
 | https://www.youtube.com/watch?v=L3DmZAx0bdQ
-| 
-| "Hacktivism in My Words" - Carmin Karasic  
+|
+| "Hacktivism in My Words" - Carmin Karasic
 | http://www.sousvivalism.nl/ebook/hacktivism-in-my-words/
-| 
- 
+|
