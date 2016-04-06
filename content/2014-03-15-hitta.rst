@@ -1,10 +1,12 @@
 :title: Hitta hit
-:date: 2014-03-15 00:00
+:date: 2015-04-06 00:00
 :category: Directions
 :tags: sparvnastet directions
 :slug: hitta
 :authors: Sparven
 :summary: Hitta hit
 
-Vi har vår lokal i källaren på Viskagränd 8 i Bagarmossen.
+Sparvnästet är återigen utan lokal.
+
+Kontakta oss på IRC #sparvnastet @freenode för att få information om var vi håller till inför nästa träff.
 
